@@ -1,0 +1,858 @@
+C Mil A,UF,Município,OM,Curso,Entidade,Local,Início,Fim,Carga Horária,Efetivo Inicial,Efetivo Final,Valor hora aula,Valor total
+CMA ,AC ,Rio Branco ,Cmdo Fron ACRE / 4º BIS ,Movimentação de Produtos Perigosos ,SESC/SENAT ,Entidade Parceira,4/7/2022,8/7/2022,40,7,7,"8,05",2254
+CMA ,AC ,Rio Branco ,Cmdo Fron ACRE / 4º BIS ,CONDUTORES DE VEICULOS DE TRABSPORTE COLETIVO ,SESC/SENAT ,Entidade Parceira,4/7/2022,15/7/2022,40,10,10,"8,05",3220
+CMA ,AC ,Rio Branco ,Cmdo Fron ACRE / 4º BIS ,CONDUTOR DE VEÍCULO DE EMERGÊNCIA ,SESC/SENAT ,Entidade Parceira,4/7/2022,15/7/2022,40,7,7,"8,05",2254
+CMA ,AC ,Rio Branco ,Cmdo Fron ACRE / 4º BIS ,Instalação Hidráulica ,SENAI ,Entidade Parceira,4/7/2022,15/7/2022,212,7,7,"6,5",9646
+CMNE ,AL ,Maceió ,59º BI Mtz ,ELETRICISTA DE AUTOMÓVEIS ,SENAI ,Entidade Parceira,20/6/2022,2/9/2022,160,3,3,"5,78","2774,4"
+CMNE ,AL ,Maceió ,59º BI Mtz ,"Mecânico de Freios, Suspensão e Direção ",SENAI ,Entidade Parceira,27/6/2022,2/8/2022,80,8,8,"5,18","3315,2"
+CMNE ,AL ,Maceió ,59º BI Mtz ,Manutenção de Ar Condicionado Automotivo ,SENAI ,Entidade Parceira,27/6/2022,2/8/2022,80,6,6,"6,75",3240
+CMNE ,AL ,Maceió ,59º BI Mtz ,Manutenção de Câmara Frigorífica ,SENAI ,Entidade Parceira,13/6/2022,5/7/2022,40,6,6,"13,5",3240
+CMNE ,AL ,Maceió ,59º BI Mtz ,Marcenaria para hobby ,SENAI ,Entidade Parceira,13/6/2022,11/7/2022,70,4,4,"13,15",3682
+CMNE ,AL ,Maceió ,59º BI Mtz ,Instalação e manutenção de cond ar split ,SENAI ,Entidade Parceira,6/6/2022,6/7/2022,80,3,3,"7,83","1879,2"
+CMNE ,AL ,Maceió ,59º BI Mtz ,NR10-Segurança em Inst e Serv de Eletricidade ,SESI ,Entidade Parceira,6/6/2022,10/6/2022,40,5,5,"7,5",1500
+CMNE ,AL ,Maceió ,59º BI Mtz ,NR 35 - TRABALHO EM ALTURA ,SESI ,Entidade Parceira,9/6/2022,9/6/2022,8,5,5,"9,38","375,2"
+CMNE ,AL ,Arapiraca ,TG 07-015 ,Assistente Administrativo ,SENAI-AL ,Entidade Parceira,18/4/2022,8/7/2022,240,20,20,0,0
+CMNE ,AL ,Arapiraca ,TG 07-015 ,Auxiliar de Operações Logísticas ,SENAI-AL ,Entidade Parceira,18/4/2022,8/7/2022,240,20,20,0,0
+CMNE ,AL ,Arapiraca ,TG 07-015 ,Comprador ,SENAI-AL ,Entidade Parceira,2/5/2022,8/7/2022,200,20,20,0,0
+CMNE ,AL ,Arapiraca ,TG 07-015 ,Almoxarife ,SENAI-AL ,Entidade Parceira,2/5/2022,22/7/2022,240,20,20,0,0
+CMNE ,AL ,Palmeira dos Índios ,TG 07-007 ,Assistente Administrativo ,SENAC-AL ,Entidade Parceira,4/4/2022,27/5/2022,160,30,30,0,0
+CMNE ,AL ,Palmeira dos Índios ,TG 07-007 ,Assistente de Recursos Humanos ,SENAC-AL ,Entidade Parceira,4/4/2022,27/5/2022,160,20,20,0,0
+CMNE ,AL ,Penedo ,TG 07-008 ,Assistente de Recursos Humanos ,SENAC-AL ,Entidade Parceira,8/8/2022,30/9/2022,160,25,25,0,0
+CMNE ,AL ,Teotônio Vilela ,TG 07-022 ,Assistente de Recursos Humanos ,SENAC-AL ,Entidade Parceira,4/7/2022,26/8/2022,160,25,25,0,0
+CMA ,AM ,Manaus ,Cmdo CMA ,Mecânico de Maquinas Industriais ,SENAI ,Entidade Parceira,23/2/2022,5/4/2022,120,3,3,0,0
+CMA ,AM ,Manaus ,Cmdo CMA ,Mecânico de motores a Álcool e à Gasolina ,SENAI ,Entidade Parceira,21/2/2022,5/4/2022,120,5,5,0,0
+CMA ,AM ,Manaus ,Cmdo CMA ,Segurança em Operação de Empilhadeiras ,SENAI ,Entidade Parceira,21/2/2022,9/3/2022,40,2,2,0,0
+CMA ,AM ,Manaus ,Cmdo CMA ,ELETRICISTA DE AUTOMÓVEIS ,SENAI ,Entidade Parceira,14/2/2022,29/3/2022,120,5,5,0,0
+CMA ,AM ,Manaus ,Cmdo CMA ,Padeiro ,SENAI ,Própria OM,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,Manaus ,Cmdo CMA ,Auxiliar de Saúde Bucal ,CETAM ,Própria OM,4/4/2022,8/7/2022,520,12,12,0,0
+CMA ,AM ,Tabatinga ,Cmdo Fron SOLIMÕES / 8º B I S ,PEDREIRO ,CETAM ,Própria OM,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,Tabatinga ,Cmdo Fron SOLIMÕES / 8º B I S ,Eletricista Baixa tensão ,CETAM ,Própria OM,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,Tabatinga ,Cmdo Fron SOLIMÕES / 8º B I S ,Jardinagem ,CETAM ,Própria OM,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,Tefé ,Cmdo 16ª Bda Inf Sl ,PEDREIRO ,CETAM ,Própria OM,12/9/2022,7/10/2022,160,20,20,1,3200
+CMA ,AM ,São Gabriel da Cachoeira ,Cmdo 2ª Bda Inf Sl ,Eletricista Baixa tensão ,Agape Treinamentos ,Própria OM,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,São Gabriel da Cachoeira ,Cmdo 2ª Bda Inf Sl ,PEDREIRO ,CETAM ,Própria OM,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,São Gabriel da Cachoeira ,Cmdo 2ª Bda Inf Sl ,Manutenção de motores de popa ,CETAM ,Própria OM,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM,Manaus,PR Mnt/12,"Curso de Motorista Profissional Categoria ""C""",DETRAN /AM,PR Mnt/12,14/3/2022,16/11/2022,50,168,168,"2,01","16905,35"
+CMA ,AM,Manaus,PR Mnt/12,"Curso de Motorista Profissional Categoria ""D""",DETRAN /AM,PR Mnt/12,18/5/2022,16/11/2022,50,60,60,"2,08","6252,67"
+CMA ,AM ,Manaus ,Pq R Mnt / 12ª RM ,Mecânico de Motores à Diesel ,SENAI ,PR Mnt/12,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,Manaus ,Pq R Mnt / 12ª RM ,Eletricista Automotivo ,SENAI ,PR Mnt/12,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,Manaus ,Pq R Mnt / 12ª RM ,MECÂNICO DE MANUTENÇÃO EM AUTOMÓVEIS ,SENAI ,PR Mnt/12,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,Manaus ,Pq R Mnt / 12ª RM ,Manutenção de Motosseras ,SENAI ,PR Mnt/12,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,Manaus ,Pq R Mnt / 12ª RM ,Capoteiro/Corrieiro ,SENAI ,PR Mnt/12,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,Manaus ,4º CTA ,Montador e Reparador de Computador ,SENAI ,PR Mnt/12,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,Manaus ,4º CTA ,Instalador e Reparador de Redes de Computador ,SENAI ,PR Mnt/12,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,Humaitá ,54º BIS ,PEDREIRO ,CETAM ,PR Mnt/12,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,Humaitá ,54º BIS ,Mecânico de Refrigeração e Climatização Domés ,CETAM ,PR Mnt/12,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,Humaitá ,54º BIS ,Cozinha Industrial ,CETAM ,PR Mnt/12,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,Manaus ,7º BPE ,PEDREIRO ,SENAI ,Própria OM,13/6/2022,15/7/2022,160,20,20,"1,33",4256
+CMA ,AM ,Manaus ,7º BPE ,Eletricista Baixa tensão ,SENAI ,Própria OM,13/7/2022,19/8/2022,160,20,20,"1,33",4256
+CMA ,AM ,Manaus ,7º BPE ,INSTALADOR HIDRÁULICO ,SENAI ,Própria OM,13/6/2022,15/7/2022,160,20,20,"1,33",4256
+CMA ,AM ,Manaus ,7º BPE ,Pintor Residencial ,SENAI ,Própria OM,13/7/2022,19/8/2022,160,20,20,"1,33",4256
+CMA ,AM ,Manaus ,7º BPE ,Pedreiro de Alvenaria ,CETAM ,Própria OM,12/9/2022,13/10/2022,160,20,20,"1,32",4224
+CMA ,AM ,Barcelos ,3º BIS ,Mecânico de motor de popa ,CETAM ,Própria OM,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,Barcelos ,3º BIS ,Pedreiro de Alvenaria ,CETAM ,Própria OM,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,Barcelos ,3º BIS ,Mecânico de Motores à Diesel ,CETAM ,Própria OM,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,Manaus ,H Mil A MANAUS ,Auxiliar de Saúde Bucal ,CETAM ,Própria OM,18/7/2022,11/11/2022,460,20,20,"0,59",5428
+CMA ,AM ,Manaus ,Cia Cmdo CMA ,AGENTE DE PORTARIA ,CETAM ,Própria OM,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,Manaus ,Cia Cmdo CMA ,Jardinagem e Paisagismo ,CETAM ,Própria OM,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,São Gabriel da Cachoeira ,Cia Cmdo 2º Gpt E ,Cozinha Industrial ,CETAM ,Própria OM,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMA ,AM ,São Gabriel da Cachoeira ,Cia Cmdo 2º Gpt E ,Confeiteiro ,SENAI ,Própria OM,00/00/0000 ,00/00/0000 ,160,20,20,"1,33",4256
+CMN ,AP ,Macapá ,Cmdo 22ª Bda Inf Sl ,MOPP ,SEST SENAT ,Entidade Parceira,1/6/2022,30/11/2022,50,7,7,8,2800
+CMN ,AP ,Macapá ,Cmdo 22ª Bda Inf Sl ,OPERADOR DE EMPILHADEIRA ,SEST SENAT ,Entidade Parceira,1/6/2022,30/11/2022,16,7,7,"16,62","1861,44"
+CMN ,AP ,Macapá ,Cmdo 22ª Bda Inf Sl ,Transporte Coletivo de Passageiros ,SEST SENAT ,Entidade Parceira,1/6/2022,30/11/2022,50,8,8,8,3200
+CMN ,AP ,Macapá ,Cmdo 22ª Bda Inf Sl ,Condutor de veículos de emergência ,SEST SENAT ,Entidade Parceira,1/6/2022,30/11/2022,50,15,15,8,6000
+CMN ,AP ,Macapá ,Cmdo 22ª Bda Inf Sl ,Operador de Trator Agricola ,SEST SENAT ,Entidade Parceira,1/6/2022,2/12/2022,40,20,20,"11,25",9000
+CMN ,AP ,Macapá ,Cmdo 22ª Bda Inf Sl ,MONTADOR E REPARADOR DE REDES DE COMPUTADORES ,SENAC ,Entidade Parceira,13/6/2022,12/12/2022,168,23,23,"4,11","15881,04"
+CMN ,AP ,Macapá ,Cmdo 22ª Bda Inf Sl ,PEDREIRO ,SENAI ,Entidade Parceira,1/6/2022,30/11/2022,220,12,12,"6,64","17529,6"
+CMN ,AP ,Macapá ,Cmdo 22ª Bda Inf Sl ,Eletricista de alta e baixa tensão ,Equatorial Energia - Amapá ,Entidade Parceira,1/7/2022,30/11/2022,300,28,28,0,0
+CMN ,AP ,Macapá ,Cmdo 22ª Bda Inf Sl ,NR 35 TRABALHO EM ALTURA ,SENAT ,Entidade Parceira,29/8/2022,16/12/2022,16,5,5,"15,63","1250,4"
+CMNE ,BA ,Salvador ,Cmdo 6ª RM ,Mecânico de Refrigeração e Climatização Res. ,SENAI DENDEZEIROS ,Entidade Parceira,12/7/2021,20/8/2021,200,22,22,"7,78",34232
+CMNE ,BA ,Salvador ,Cmdo 6ª RM ,ELETRICISTA INSTALADOR PREDIAL DE BAIXA TENSÃ ,SENAI DENDEZEIROS ,Entidade Parceira,10/7/2022,24/8/2022,160,22,22,"7,5",26400
+CMNE,BA,Salvador,19º BC,"Curso de Motorista Profissional Categoria ""D""",DETRAN /BA,19º BC,9/6/2022,22/10/2022,50,74,74,"11,64",43068
+CMNE ,BA ,Salvador ,Cmdo 6ª RM ,Instalador Hidráulico ,SENAI DENDEZEIROS ,Entidade Parceira,12/7/2022,1/8/2022,100,22,22,"8,05",17710
+CMNE ,BA ,Feira de Santana ,35º BI ,Mecânico Reparador de Motores a Diesel ,SENAI FEIRA DE SANTANA ,Entidade Parceira,1/8/2022,13/9/2022,160,20,20,"8,85",28320
+CMNE ,BA ,Barreiras ,4º BEC ,Eletricis de Distribuição de Energia Elétrica ,"SENAI, Barreiras-BA ",Entidade Parceira,4/7/2022,5/9/2022,240,22,22,6,25920
+CMNE ,CE ,Fortaleza ,Cmdo 10ª RM ,"MECÂNICO DE SUSPENSÃO, DIREÇÃO, FREIOS E ALIN ",SENAI - Fortaleza ,Entidade Parceira,14/6/2022,15/8/2022,160,20,20,"6,25",20000
+CMNE ,CE ,Fortaleza ,Cmdo 10ª RM ,MECÂNICO DE MANUTENÇÃO DE MOTOCICLETAS ,SENAI - Fortaleza ,Própria OM,28/6/2022,30/8/2022,160,20,20,"7,44",23808
+CMNE ,CE ,Fortaleza ,Cmdo 10ª RM ,FABRICAÇÃO DE SALGADOS ,SENAI - Fortaleza ,Própria OM,11/7/2022,15/7/2022,20,20,20,"19,5",7800
+CMNE ,CE ,Fortaleza ,Cmdo 10ª RM ,MARCENEIRO DE MÓVEIS SOB MEDIDA ,SENAI - Fortaleza ,Própria OM,8/8/2022,10/10/2022,160,20,20,"6,31",20192
+CMNE ,CE ,Fortaleza ,Cmdo 10ª RM ,OPERAÇÃO DE DRONES ,SENAI - Fortaleza ,Própria OM,29/8/2022,2/9/2022,20,20,20,"31,5",12600
+CMNE,CE,Fortaleza,Pq R Mnt/10 ,"Curso de Motorista Profissional Categoria ""D""",DETRAN /CE,Pq R Mnt/10 ,18/5/2022,16/11/2022,50,52,52,"9,75",25350
+CMNE ,CE ,Fortaleza ,Cmdo 10ª RM ,INFORMÁTICA BÁSICA ,SENAI - Fortaleza ,Entidade Parceira,20/9/2022,10/10/2022,60,20,20,"4,83",5796
+CMNE ,CE ,Fortaleza ,Cmdo 10ª RM ,MANUTENÇÃO DE MÁQUINAS DE LAVAR ,SENAI - Fortaleza ,Entidade Parceira,11/10/2022,14/11/2022,80,20,20,"6,13",9808
+CMNE ,CE ,Fortaleza ,Cmdo 10ª RM ,BARBEIRO ,SENAC ,Entidade Parceira,5/9/2022,10/11/2022,172,20,20,"6,4",22016
+CMNE ,CE ,Fortaleza ,Cmdo 10ª RM ,Operador de Caixa ,SENAC ,Entidade Parceira,12/9/2022,30/9/2022,160,20,20,"5,33",17056
+CMNE ,CE ,Fortaleza ,Cmdo 10ª RM ,Pizzaiolo ,SENAC ,Entidade Parceira,3/10/2022,31/10/2022,160,20,20,"6,82",21824
+CMNE ,CE ,Fortaleza ,Cmdo 10ª RM ,Assistente de logística ,SENAC ,Entidade Parceira,5/9/2022,30/9/2022,160,20,20,"5,48",17536
+CMNE ,CE ,Fortaleza ,Cmdo 10ª RM ,Montador e Reparador de Computadores ,SENAC ,Entidade Parceira,5/9/2022,30/9/2022,160,20,20,"6,76",21632
+CMNE ,CE ,Fortaleza ,Cmdo 10ª RM ,Vendedor ,SENAC ,Entidade Parceira,3/10/2022,4/11/2022,160,20,20,"5,25",16800
+CMNE ,CE ,Fortaleza ,Cmdo 10ª RM ,Assistente Administrativo ,SENAC ,Entidade Parceira,3/10/2022,4/11/2022,160,20,20,"5,35",17120
+CMNE ,CE ,Fortaleza ,Cmdo 10ª RM ,Operador de Turismo Receptivo ,SENAC ,Entidade Parceira,7/11/2022,2/12/2022,160,20,20,"5,05",16160
+CMP ,DF ,Brasília ,Ba Adm QGEx ,Transporte coletivo de passageiros ,B Adm QGEx ,Própria OM,21/2/2022,25/3/2022,50,22,22,0,0
+CMP ,DF ,Brasília ,Ba Adm QGEx ,Transporte de Cargas Indivisíveis ,B Adm QGEx ,Própria OM,8/3/2021,9/3/2022,15,18,18,0,0
+CMP ,DF ,Brasília ,Ba Adm QGEx ,Condutor de veículos de emergência ,B Adm QGEx ,Própria OM,28/3/2022,5/4/2022,50,20,20,0,0
+CMP ,DF ,Brasília ,Ba Adm QGEx ,Movimentação de Produtos Perigosos ,B Adm QGEx ,Própria OM,6/4/2022,7/4/2022,15,20,20,0,0
+CMP ,DF ,Brasília ,Ba Adm QGEx ,Transporte Coletivo de Passageiros ,B Adm QGEx ,Própria OM,25/4/2022,3/5/2022,50,20,20,0,0
+CMP,DF,Brasília,16º B Log,"Curso de Motorista Profissional Categoria ""D""",DETRAN /DF,16º B Log,16/3/2022,26/9/2022,50,45,45,"35,08",78930
+CMP,DF,Brasília,16º B Log,"Curso de Motorista Profissional Categoria ""E""",DETRAN /DF,16º B Log,9/6/2022,22/10/2022,50,5,5,"35,08",8770
+CMP ,DF ,Brasília ,Ba Adm QGEx ,Transporte de Cargas Indivisíveis ,B Adm QGEx ,Própria OM,4/5/2022,5/5/2022,15,20,20,0,0
+CMP ,DF ,Brasília ,Ba Adm QGEx ,Condutor de veículos de emergência ,B Adm QGEx ,Própria OM,9/5/2022,17/5/2022,50,20,20,0,0
+CMP ,DF ,Brasília ,Ba Adm QGEx ,Movimentação de Produtos Perigosos ,B Adm QGEx ,Própria OM,18/5/2022,19/5/2022,15,20,20,0,0
+CMP ,DF ,Brasília ,Ba Adm QGEx ,Transporte Coletivo de Passageiros ,B Adm QGEx ,Própria OM,30/5/2022,7/6/2022,50,20,20,0,0
+CMP ,DF ,Brasília ,Ba Adm QGEx ,Transporte de cargas indivisíveis ,B Adm QGEx ,Própria OM,8/6/2022,9/6/2022,15,20,20,0,0
+CMP ,DF ,Brasília ,Ba Adm QGEx ,Condutor de veículos de emergência ,B Adm QGEx ,Própria OM,20/6/2022,28/6/2022,50,20,20,0,0
+CMP ,DF ,Brasília ,Ba Adm QGEx ,Movimentação de Produtos Perigosos ,B Adm QGEx ,Própria OM,29/6/2022,30/6/2022,15,20,20,0,0
+CMP ,DF ,Brasília ,Ba Adm QGEx ,Eficiência energética - Veículos Pesados ,B Adm QGEx ,Entidade Parceira,4/7/2022,6/7/2022,12,12,12,"29,16","4199,04"
+CMP ,DF ,Brasília ,Ba Adm QGEx ,Condutor de Veículo de Transporte Escolar ,B Adm QGEx ,Entidade Parceira,22/8/2022,26/8/2022,50,20,20,6,6000
+CML ,ES ,Vila Velha ,38º BI ,Bombeiro Civil ,CBM ES,Entidade Parceira,7/2/2022,18/4/2022,234,20,20,0,0
+CML ,ES ,Vila Velha ,38º BI ,Pintura Automotiva ,Montanha da esperança ,Entidade Parceira,26/4/2022,23/6/2022,120,3,3,0,0
+CML ,ES ,Vila Velha ,38º BI ,Funileiro Automotivo ,Montanha da esperança ,Entidade Parceira,26/4/2022,23/6/2022,120,1,1,0,0
+CML ,ES ,Vila Velha ,38º BI ,Montador e Reparador de Computadores ,Montanha da esperança ,Entidade Parceira,26/4/2022,23/6/2022,120,2,2,0,0
+CML ,ES ,Vila Velha ,38º BI ,Recursos humanos ,Montanha da esperança ,Entidade Parceira,26/4/2022,23/6/2022,120,5,5,0,0
+CML ,ES ,Vila Velha ,38º BI ,SOLDADOR NO PROCESSO ELETRODO REVESTIDO EM AÇ ,Montanha da esperança ,Entidade Parceira,26/4/2022,23/6/2022,120,3,3,0,0
+CML ,ES ,Vila Velha ,38º BI ,ELETROMECÂNICO DE AUTOMÓVEIS ,Montanha da esperança ,Entidade Parceira,11/7/2022,3/9/2022,120,9,9,0,0
+CML ,ES ,Vila Velha ,38º BI ,Pintura Automotiva ,Montanha da esperança ,Entidade Parceira,11/7/2022,3/9/2022,120,1,1,0,0
+CML ,ES ,Vila Velha ,38º BI ,Soldador de Eletrodo Revestido ,Montanha da esperança ,Entidade Parceira,11/7/2022,3/9/2022,120,1,1,0,0
+CML ,ES ,Vila Velha ,38º BI ,Informática Básica e Manutenção de Microcompu ,Montanha da esperança ,Entidade Parceira,11/7/2022,3/9/2022,120,4,4,0,0
+CMP ,GO ,Jataí ,41º BI Mtz ,Soldador MIG/MAG ,SENAR - GO ,Entidade Parceira,11/4/2022,13/4/2022,24,5,5,0,0
+CMP ,GO ,Jataí ,41º BI Mtz ,Segurança em Instalações e Sv em Eletricidade ,SENAR - GO ,Entidade Parceira,21/2/2022,25/2/2022,40,12,12,0,0
+CMP ,GO ,Jataí ,41º BI Mtz ,Operação e Manutenção de Roçadeira ,SENAR - GO ,Entidade Parceira,27/6/2022,28/6/2022,8,16,16,0,0
+CMP ,GO ,Jataí ,41º BI Mtz ,Motosserra - Operação e Manutenção ,SENAR - GO ,Entidade Parceira,8/8/2022,10/8/2022,20,10,10,0,0
+CMP ,GO ,Goiânia ,Cmdo Cmdo Op Esp ,Redes de Distribuiçãode Energia Elétrica ,SENAI ,Entidade Parceira,30/5/2022,29/8/2022,240,25,25,0,0
+CMP ,GO ,Goiânia ,Cmdo Cmdo Op Esp ,Auxiliar de Geoprocessamento ,Instituto Federal de Goiás ,Entidade Parceira,12/9/2022,14/11/2022,160,17,17,0,0
+CMP ,GO ,Goiânia ,Cmdo Cmdo Op Esp ,Soldador no processo MIG MAG ,SENAI ,Própria OM,20/6/2022,15/7/2022,160,20,20,0,0
+CMP ,GO ,Goiânia ,Cmdo Cmdo Op Esp ,Solda Elétrica ,SENAR ,Própria OM,22/8/2022,9/9/2022,32,15,15,0,0
+CMP,GO,Araguari,2º B Fv,"Curso de Motorista Profissional Categoria ""C""",DETRAN /GO,2º B Fv,18/3/2022,21/11/2022,50,11,11,"4,53","2491,5"
+CMP,GO,Araguari,2º B Fv,"Curso de Motorista Profissional Categoria ""D""",DETRAN /GO,2º B Fv,19/4/2022,17/11/2022,50,28,28,"4,53",6342
+CMP,GO,Araguari,2º B Fv,"Curso de Motorista Profissional Categoria ""E""",DETRAN /GO,2º B Fv,12/5/2022,08/011/22,50,31,31,"4,53","7021,5"
+CMP,GO,Goiania,C Op Esp,"Curso de Motorista Profissional Categoria ""C""",DETRAN /GO,C Op Esp,18/5/2022,29/11/2022,50,14,14,"2,99",2093
+CMP,GO,Goiania,C Op Esp,"Curso de Motorista Profissional Categoria ""D""",DETRAN /GO,C Op Esp,17/2/2022,30/6/2022,50,63,63,"2,99","9418,5"
+CMP ,GO ,Goiânia ,Cmdo Cmdo Op Esp ,Pilotagem de drones foto aéreas ,SENAR ,Própria OM,11/7/2022,18/7/2022,24,15,15,0,0
+CMP ,GO ,Goiânia ,Cmdo Cmdo Op Esp ,Paisagismo e jardinagem ,SENAR ,Própria OM,1/8/2022,15/8/2022,30,15,15,0,0
+CMP ,GO ,Goiânia ,Cmdo Cmdo Op Esp ,ROÇADEIRA OPERAÇÃO E MANUTENÇÃO ,SENAR ,Própria OM,3/10/2022,7/10/2022,16,15,15,0,0
+CMP ,GO ,Goiânia ,Cmdo Cmdo Op Esp ,Segurança na operação de empilhadeira ,SENAR ,Própria OM,10/10/2022,14/10/2022,16,15,15,0,0
+CMP ,GO ,Goiânia ,Cmdo Cmdo Op Esp ,Cozinha rural ,SENAR ,Própria OM,1/8/2022,12/8/2022,32,16,16,0,0
+CMP ,GO ,Goiânia ,Cmdo Cmdo Op Esp ,Higiene e segurança na produção de alimentos ,SENAR ,Própria OM,8/8/2022,12/8/2022,24,16,16,0,0
+CMP ,GO ,Goiânia ,Cmdo Cmdo Op Esp ,Operação e Manutenção de Motossera ,SENAR ,Própria OM,7/11/2022,11/11/2022,24,15,15,0,0
+CMP ,GO ,Goiânia ,Cmdo Cmdo Op Esp ,Panificação rural ,SENAR ,Própria OM,18/7/2022,29/7/2022,32,16,16,0,0
+CMP ,GO ,Goiânia ,Cmdo Cmdo Op Esp ,Primeiros Socorros ,SENAR ,Própria OM,21/11/2022,25/11/2022,16,15,15,0,0
+CMP ,GO ,Goiânia ,Cmdo Cmdo Op Esp ,Transporte Coletivo de Passageiros ,QG B.Adm - Brasília ,Própria OM,25/4/2022,5/5/2022,50,18,18,0,0
+CMP ,GO ,Goiânia ,Cmdo Cmdo Op Esp ,MOPP ,QG B.Adm - Brasília ,Própria OM,25/4/2022,5/5/2022,50,10,10,0,0
+CMP ,GO ,Goiânia ,Cmdo Cmdo Op Esp ,Indivisíveis ,QG B.Adm - Brasília ,Própria OM,25/4/2022,5/5/2022,50,10,10,0,0
+CMP ,GO ,Goiânia ,Cmdo Cmdo Op Esp ,Condutor de Veículo de Emergêcia ,QG B.Adm - Brasília ,Própria OM,20/6/2022,30/6/2022,50,15,15,0,0
+CMN ,MA ,Imperatriz ,50º BIS ,Excel básico e avançado ,SENAI ,Entidade Parceira,12/6/2022,17/6/2022,40,5,5,"3,13",626
+CMN ,MA ,Imperatriz ,50º BIS ,Montador e Reparador de Computadores ,SENAC ,Entidade Parceira,6/6/2022,1/7/2022,120,5,5,"5,55",3330
+CMN ,MA ,Imperatriz ,50º BIS ,Programador de Sistemas ,SENAC ,Entidade Parceira,6/6/2022,1/7/2022,200,5,5,"2,96",2960
+CMN ,MA ,Imperatriz ,50º BIS ,Técnicas Básicas de Cozinha ,SENAC ,Entidade Parceira,6/6/2022,10/6/2022,30,5,5,"11,97","1795,5"
+CMN ,MA ,Imperatriz ,50º BIS ,Transporte Coletivo de Passageiros ,SEST SENAT ,Entidade Parceira,6/6/2022,17/6/2022,50,5,5,5,1250
+CMN ,MA ,Imperatriz ,50º BIS ,SOLDADOR NO PROCESSO ELETRODO REVESTIDO EM AÇ ,SENAI ,Entidade Parceira,6/6/2022,1/7/2022,200,5,5,"3,25",3250
+CMN ,MA ,Imperatriz ,50º BIS ,Marceneiro de Móveis ,SENAI ,Entidade Parceira,6/6/2022,30/6/2022,140,5,5,"3,6",2520
+CMN ,MA ,Imperatriz ,50º BIS ,Transporte de Produtos Perigosos ,SEST/SENAT ,Entidade Parceira,20/6/2022,8/7/2022,50,5,5,5,1250
+CMN ,MA ,Imperatriz ,50º BIS ,Condutor de veículos de emergência ,SEST/SENAT ,Entidade Parceira,20/6/2022,8/7/2022,50,5,5,5,1250
+CMN ,MA ,São Luís ,24º BIS ,Mecânica de Refrigeração e Climatização Resid ,SENAI ,Entidade Parceira,4/7/2022,8/8/2022,40,10,10,10,4000
+CMN ,MA ,São Luís ,24º BIS ,Mecânica Diesel ,SENAI ,Própria OM,1/7/2022,15/9/2022,112,10,10,"3,58","4009,6"
+CMN ,MA ,São Luís ,24º BIS ,Fundamentos da Confeitaria ,SENAI ,Própria OM,1/8/2022,26/8/2022,60,10,10,"8,66",5196
+CMN ,MA ,São Luís ,24º BIS ,Adobe Photoshop ,SENAI ,Entidade Parceira,5/9/2022,7/10/2022,80,10,10,5,4000
+CMN ,MA ,São Luís ,24º BIS ,Montador e Reparador de Computadores ,SENAI ,Entidade Parceira,1/11/2022,22/12/2022,160,10,10,"3,44",5504
+CMN ,MA ,São Luís ,24º BIS ,Instalador Hidráulico ,SENAI ,Própria OM,7/11/2022,30/11/2022,60,10,10,"8,34",5004
+CMN ,MA ,São Luís ,24º BIS ,Excel Básico ,SENAI ,Entidade Parceira,3/10/2022,28/10/2022,40,10,10,"6,25",2500
+CMN ,MA ,São Luís ,24º BIS ,Doces e Salgados ,SENAI ,Própria OM,5/9/2022,30/9/2022,40,10,10,"6,25",2500
+CMN ,MA ,São Luís ,24º BIS ,Movimentação de Produtos Perigosos ,SENAI ,Entidade Parceira,1/8/2022,26/8/2022,50,10,10,"7,5",3750
+CMN ,MA ,São Luís ,24º BIS ,Pedreiro de Alvenaria ,SENAI ,Própria OM,5/9/2022,21/10/2022,60,10,10,"8,34",5004
+CMN ,MA ,São Luís ,24º BIS ,ELETRICISTA INSTALADOR RESIDENCIAL ,SENAI ,Própria OM,7/11/2022,9/12/2022,60,10,10,"8,34",5004
+CML ,MG ,Belo Horizonte ,CPOR / CM - BH ,Eletricista Instalador Predial Baixa Tensão ,SENAI ,Entidade Parceira,1/8/2022,6/10/2022,200,16,16,"5,38",17216
+CML ,MG ,Belo Horizonte ,CPOR / CM - BH ,CURSO DE CONDUTORES DE VEÍCULOS DE EMERGÊNCIA ,4º GAAAe ,Própria OM,6/6/2022,10/6/2022,40,3,3,0,0
+CML ,MG ,Juiz de Fora ,H Ge JUIZ DE FORA ,Operador de Empilhadeira ,SEST SENAT ,Entidade Parceira,24/10/2022,28/10/2022,16,2,2,"12,5",400
+CML ,MG ,Juiz de Fora ,H Ge JUIZ DE FORA ,Operador de Munck ,SEST SENAT ,Entidade Parceira,24/10/2022,28/10/2022,16,2,2,"15,62","499,84"
+CML ,MG ,São João Del Rei ,11º BI Mth ,NR 35 - TRABALHO EM ALTURA ,SENAR ,Própria OM,13/5/2022,14/5/2022,16,8,8,0,0
+CML ,MG ,São João Del Rei ,11º BI Mth ,Mecânica de motocicletas ,SENAR ,Própria OM,29/8/2022,3/9/2022,48,8,8,0,0
+CML ,MG ,São João Del Rei ,11º BI Mth ,Básico de Soldagem eletrodo revestido ,SENAR ,Própria OM,25/4/2022,27/4/2022,24,9,9,0,0
+CML ,MG ,São João Del Rei ,11º BI Mth ,NR 35 - TRABALHO EM ALTURA ,SENAR ,Própria OM,13/6/2022,14/6/2022,16,6,6,0,0
+CML ,MG ,Belo Horizonte ,12º BIL Mth ,Instalador Hidráulico Predial ,SENAI ,Entidade Parceira,25/7/2022,20/8/2022,160,20,20,"5,15",16480
+CML ,MG ,Juiz de Fora ,17º B Log L Mth ,ELETRICISTA DE AUTOMÓVEIS ,SENAI - JUIZ DE FORA ,Própria OM,8/8/2022,30/9/2022,160,10,10,"9,65",15440
+CML ,MG ,Juiz de Fora ,17º B Log L Mth ,Desmontagem e montagem de Pneus ,SENAI - JUIZ DE FORA ,Própria OM,30/8/2022,2/9/2022,16,6,6,"34,4","3302,4"
+CML ,MG ,Juiz de Fora ,4º GAC L Mth ,"Preparo de Pães, Roscas e Biscoitos ",SENAC ,Própria OM,10/10/2022,14/10/2022,20,20,20,"13,5",5400
+CML,MG,Pouso Alegre,14º GAC,"Curso de Motorista Profissional Categoria ""D""",DETRAN /MG,14 GAC,13/2/2022,28/7/2022,50,60,60,"10,36",31080
+CML,MG,Juiz de Fora,17º B Log L Mth,"Curso de Motorista Profissional Categoria ""D""",DETRAN /MG,17º B Log L Mth,12/5/2022,08/011/22,50,20,20,"14,49",14490
+CML ,MG ,Montes Claros ,55º BI ,Excel Básico ,SEST SENAT ,Entidade Parceira,6/6/2022,6/8/2022,20,10,10,5,1000
+CML ,MG ,Montes Claros ,55º BI ,Frentista Abastecedor ,SEST SENAT ,Entidade Parceira,13/6/2022,15/6/2022,20,20,20,"7,5",3000
+CML ,MG ,Montes Claros ,55º BI ,Almoxarife ,SEST SENAT ,Entidade Parceira,30/5/2022,2/6/2022,40,15,15,"4,5",2700
+CMP ,MG ,Uberlândia ,36º BI Mec ,Web Designer ,Prefeitura Municipal de Uberlândia ,Entidade Parceira,21/3/2022,26/3/2022,18,1,1,0,0
+CMP ,MG ,Uberlândia ,36º BI Mec ,Preparo de Massas ,Prefeitura Municipal de Uberlândia ,Entidade Parceira,7/3/2022,11/3/2022,20,2,2,0,0
+CMP ,MG ,Uberlândia ,36º BI Mec ,Preparo de Bolos e Tortas ,Prefeitura Municipal de Uberlândia ,Entidade Parceira,14/3/2022,18/3/2022,20,2,2,0,0
+CMP ,MG ,Uberlândia ,36º BI Mec ,Preparo de pães roscas e biscoitos ,Prefeitura Municipal de Uberlândia ,Entidade Parceira,21/3/2022,25/3/2022,20,2,2,0,0
+CMP ,MG ,Uberlândia ,36º BI Mec ,Logística ,Prefeitura Municipal de Uberlândia ,Entidade Parceira,28/3/2022,4/4/2022,18,2,2,0,0
+CMP ,MG ,Uberlândia ,36º BI Mec ,Excel ,Prefeitura Municipal de Uberlândia ,Entidade Parceira,7/3/2022,18/3/2022,30,1,1,0,0
+CMP ,MG ,Uberlândia ,36º BI Mec ,MOVIMENTAÇÃO DE PRODUTOS PERIGOSOS - MOPP ,SEST SENAT ,Entidade Parceira,24/10/2022,28/10/2022,50,5,5,5,1250
+CMP ,MG ,Uberlândia ,36º BI Mec ,Transporte Coletivo de Passageiros ,SEST/SENAT ,Entidade Parceira,5/9/2022,6/9/2022,16,5,5,"11,88","950,4"
+CMP ,MG ,Uberlândia ,36º BI Mec ,Condutor Veículos de Emergência ,SEST SENAT ,Entidade Parceira,5/9/2022,16/9/2022,16,5,5,"11,88","950,4"
+CMP ,MG ,Uberlândia ,36º BI Mec ,Ferramentas de Marketing Digital ,Prefeitura Municipal de Uberlândia ,Entidade Parceira,14/3/2022,21/3/2022,20,2,2,0,0
+CMP ,MG ,Uberlândia ,36º BI Mec ,Tortas de padaria ,SENAI ,Entidade Parceira,12/9/2022,16/9/2022,20,10,10,"21,8",4360
+CMP ,MG ,Uberlândia ,36º BI Mec ,Motor Diesel ,SENAI ,Entidade Parceira,5/9/2022,16/9/2022,40,10,10,"15,31",6124
+CMP ,MG ,Uberlândia ,36º BI Mec ,"Suspensão, Direção e Freios ",SENAI ,Entidade Parceira,12/9/2022,16/9/2022,40,10,10,"14,59",5836
+CMP ,MG ,Uberlândia ,36º BI Mec ,RECEPCIONISTA ,Prefeitura Municipal de Uberlândia ,Entidade Parceira,9/5/2022,4/7/2022,160,1,1,0,0
+CMP ,MG ,Uberlândia ,36º BI Mec ,Boas práticas em manipulação de alimentos ,Prefeitura Municipal de Uberlândia ,Entidade Parceira,23/5/2022,3/6/2022,40,11,11,0,0
+CMP ,MG ,Uberlândia ,36º BI Mec ,Mecânico automotivo ,Prefeitura Municipal de Uberlândia ,Entidade Parceira,23/5/2022,16/8/2022,210,2,2,0,0
+CML ,MG ,Belo Horizonte ,Cia Cmdo 4ª RM ,PEDREIRO DE ALVENARIA ,SENAI ,Entidade Parceira,3/10/2022,2/12/2022,160,20,20,"5,45",17440
+CML ,MG ,Belo Horizonte ,4ª Cia Com L ,ELETRICISTA INSTALADOR PREDIAL BAIXA TENSÃO ,SENAI ,Entidade Parceira,1/8/2022,6/10/2022,200,4,4,"5,38",4304
+CMO ,MS ,Corumbá ,Cmdo 18ª Bda Inf Fron ,Eletricista Instalador Residencial ,SENAI - CORUMBÁ/MS ,Entidade Parceira,4/7/2022,16/9/2022,160,30,30,7,33600
+CMO ,MS ,Corumbá ,Cmdo 18ª Bda Inf Fron ,Auxiliar de cozinha ,SENAC ,Entidade Parceira,3/10/2022,11/11/2022,160,15,15,7,16800
+CMO ,MS ,Dourados ,Cmdo 4ª Bda C Mec ,Curso de Operação de Guindauto Munk ,SENAI - MS ,Própria OM,6/6/2022,7/6/2022,16,20,20,"6,28","2009,6"
+CMO ,MS ,Dourados ,Cmdo 4ª Bda C Mec ,CorelDRAW e Photoshop - Ilustração Digital ,SENAC ,Entidade Parceira,20/6/2022,24/6/2022,40,20,20,7,5600
+CMO ,MS ,Dourados ,Cmdo 4ª Bda C Mec ,Gestão de Projetos de TI ,SENAC ,Entidade Parceira,28/6/2022,1/7/2022,36,20,20,7,5040
+CMO ,MS ,Dourados ,Cmdo 4ª Bda C Mec ,NR 10 - Segurança em Instalação e Sv com Elet ,SENAI - MS ,Própria OM,20/6/2022,24/6/2022,40,20,20,"5,8",4640
+CMO,MS,Campo Grande,18º B Trnp,"Curso de Motorista Profissional Categoria ""C""",DETRAN /MS,18º B Trnp,13/2/2022,28/7/2022,50,23,23,"15,22",17503
+CMO,MS,Campo Grande,18º B Trnp,"Curso de Motorista Profissional Categoria ""D""",DETRAN /MS,18º B Trnp,14/3/2022,16/11/2022,50,43,43,"15,22",32723
+CMO,MS,Dourados,28º B Log,"Curso de Motorista Profissional Categoria ""C""",DETRAN /MS,28º B Log,7/3/2022,30/11/2022,50,19,19,"8,75","8312,5"
+CMO,MS,Dourados,28º B Log,"Curso de Motorista Profissional Categoria ""D""",DETRAN /MS,28º B Log,9/6/2022,22/10/2022,50,61,61,"8,75","26687,5"
+CMO ,MS ,Dourados ,Cmdo 4ª Bda C Mec ,NR 10 - Segurança em Instalação e Sv com Elet ,SENAI - MS ,Própria OM,29/8/2022,2/9/2022,40,20,20,"5,8",4640
+CMO ,MS ,Dourados ,Cmdo 4ª Bda C Mec ,Operador de Munck ,SENAI - MS ,Própria OM,26/9/2022,27/9/2022,16,20,20,"6,28","2009,6"
+CMO ,MS ,Dourados ,Cmdo 4ª Bda C Mec ,CorelDRAW e Photoshop - Ilustração Digital ,SENAC ,Entidade Parceira,17/10/2022,21/10/2022,40,1,1,7,280
+CMO ,MS ,Dourados ,Cmdo 4ª Bda C Mec ,Segurança em Servidores Linux ,SENAC ,Entidade Parceira,21/11/2022,25/11/2022,36,20,20,7,5040
+CMO ,MS ,Campo Grande ,Cmdo CMO ,1 EXCEL COMPLETO ,SENAC ,Entidade Parceira,19/9/2022,27/9/2022,48,20,20,7,6720
+CMO ,MS ,Campo Grande ,Cmdo CMO ,2 Alinhamento e Balanceamento de Pneus ,SENAI ,Própria OM,13/9/2022,21/10/2022,40,20,20,"6,5",5200
+CMO ,MS ,Campo Grande ,Cmdo CMO ,3 Batidas e Coquetéis ,SENAC ,Entidade Parceira,7/11/2022,11/9/2022,36,20,20,7,5040
+CMO ,MS ,Campo Grande ,Cmdo CMO ,4 Mant Básica e Preventiva de Motores Diesel ,SENAI ,Própria OM,13/9/2022,30/9/2022,80,20,20,"6,5",10400
+CMO ,MS ,Campo Grande ,Cmdo CMO ,5 Business Inteligence com Power BI ,SENAC ,Entidade Parceira,12/9/2022,16/9/2022,40,20,20,7,5600
+CMO ,MS ,Campo Grande ,Cmdo CMO ,6 Mêcanico de Motor a Diesel ,SENAI ,Própria OM,9/8/2022,28/10/2022,260,20,20,"6,5",33800
+CMO ,MS ,Campo Grande ,Cmdo CMO ,7 Preparo de Finger Foods ,SENAC ,Entidade Parceira,8/11/2022,10/11/2022,16,20,20,7,2240
+CMO ,MS ,Campo Grande ,Cmdo CMO ,8 Manutenção de Bomba Injetora ,SENAI ,Própria OM,5/7/2022,2/9/2022,300,20,20,7,42000
+CMO ,MS ,Campo Grande ,Cmdo CMO ,9 Auxiliar de Cozinha ,SENAC ,Entidade Parceira,3/10/2022,11/11/2022,240,15,15,"7,6",27360
+CMO ,MT ,Cuiabá ,Cmdo 13ª Bda Inf Mtz ,Transporte de produtos perigosos ,SEST/SENAT ,Entidade Parceira,23/5/2022,27/5/2022,50,30,30,"7,3",10950
+CMO ,MT ,Cuiabá ,Cmdo 13ª Bda Inf Mtz ,Condutor de veículos de emergência ,SEST/SENAT ,Entidade Parceira,30/5/2022,3/6/2022,50,30,30,"7,3",10950
+CMO ,MT ,Cuiabá ,Cmdo 13ª Bda Inf Mtz ,transporte coletivo de passageiros ,SEST/SENAT ,Entidade Parceira,6/6/2022,10/6/2022,50,30,30,"7,3",10950
+CMO ,MT ,Cuiabá ,Cmdo 13ª Bda Inf Mtz ,transporte de cargas indivisíveis ,SEST/SENAT ,Entidade Parceira,13/6/2022,17/6/2022,50,30,30,"7,3",10950
+CMO ,MT ,Cuiabá ,Cmdo 13ª Bda Inf Mtz ,ELETRICISTA DE INSTALAÇOES PREDIAIS ,SENAI ,Própria OM,2/5/2022,3/6/2022,160,20,20,10,32000
+CMO ,MT ,Cuiabá ,Cmdo 13ª Bda Inf Mtz ,Pedreiro de Alvenaria ,SENAI ,Própria OM,13/6/2022,14/7/2022,160,20,20,0,0
+CMO ,MT ,Cuiabá ,Cmdo 13ª Bda Inf Mtz ,Pedreiro de revestimento em argamassa e cerâm ,SENAI ,Própria OM,25/7/2022,19/8/2022,160,20,20,0,0
+CMO ,MT ,Cuiabá ,Cmdo 13ª Bda Inf Mtz ,ARMADOR DE FERRO ,SENAI ,Entidade Parceira,18/7/2022,2/9/2022,160,10,10,0,0
+CMN ,PA ,Marabá ,Cmdo 23ª Bda Inf Sl ,Mecânica Diesel ,SENAI (MARABÁ-PA) ,Entidade Parceira,30/5/2022,29/7/2022,160,20,20,8,25600
+CMN ,PA ,Marabá ,Cmdo 23ª Bda Inf Sl ,Eletricista predial (baixa tensão) ,SENAI (MARABÁ-PA) ,Entidade Parceira,30/5/2022,29/7/2022,160,20,20,8,25600
+CMN ,PA ,Tucurui ,23º Esqd C Sl ,PEDREIRO ,Instituto MIX de Profissões ,Própria OM,2/8/2022,30/9/2022,160,10,10,"5,5",8800
+CMN ,PA ,Tucurui ,23º Esqd C Sl ,PINTOR DE OBRAS ,Instituto MIX de Profissões ,Própria OM,2/8/2022,30/9/2022,160,10,10,"5,5",8800
+CMN ,PA ,Altamira ,51º BIS ,Mecânico de motocicletas ,SENAI - ALTAMIRA ,Entidade Parceira,1/8/2022,27/9/2022,160,3,3,0,0
+CMN ,PA ,Altamira ,51º BIS ,Encarregado de Obras e Instalações ,SENAI - ALTAMIRA ,Entidade Parceira,1/8/2022,27/9/2022,160,11,11,0,0
+CMN ,PA ,Altamira ,51º BIS ,Mecanico de Motor de Popa ,SENAI - ALTAMIRA ,Entidade Parceira,30/9/2022,30/11/2022,160,2,2,0,0
+CMN,PA,Belém,PR Mnt/8,"Curso de Motorista Profissional Categoria ""D""",DETRAN /PA,PR Mnt/8,19/4/2022,17/11/2022,50,44,44,"16,84",37048
+CMN,PA,Marabá ,23º B Log Sl,"Curso de Motorista Profissional Categoria ""D""",DETRAN /PA,23º B Log Sl,16/3/2022,26/9/2022,50,4,4,"206,98","41395,32"
+CMN ,PA ,Altamira ,51º BIS ,Pedreiro de Alvenaria ,SENAI - ALTAMIRA ,Entidade Parceira,1/8/2022,27/9/2022,160,4,4,0,0
+CMN ,PA ,Altamira ,51º BIS ,Eletricista Instalador Predial ,SENAI - ALTAMIRA ,Entidade Parceira,1/8/2022,27/9/2022,160,5,5,0,0
+CMN ,PA ,Altamira ,51º BIS ,Eletricista de Redes de Distribuição de Energ ,SENAI - ALTAMIRA ,Entidade Parceira,30/9/2022,14/12/2022,200,2,2,0,0
+CMN ,PA ,Altamira ,51º BIS ,Mecânico de veículos leves ,SENAI - ALTAMIRA ,Entidade Parceira,1/8/2022,27/9/2022,160,1,1,0,0
+CMN ,PA ,Altamira ,51º BIS ,Assistente Administrativo ,SENAI - ALTAMIRA ,Entidade Parceira,30/9/2022,30/11/2022,160,5,5,0,0
+CMN ,PA ,Itaituba ,53º BIS ,Excel básico e avançado ,SENAI ,Própria OM,31/5/2022,29/6/2022,80,1,1,0,0
+CMN ,PA ,Santarém ,8º BEC ,Transporte Coletivo de Passageiros ,SEST SENAT - Santarém ,Entidade Parceira,4/7/2022,22/7/2022,50,10,10,"7,9",3950
+CMN ,PA ,Santarém ,8º BEC ,MOPP ,SEST SENAT - Santarém ,Entidade Parceira,11/7/2022,22/4/2022,60,10,10,8,4800
+CMN ,PA ,Santarém ,8º BEC ,Condutor de veículos de emergência ,SEST SENAT - Santarém ,Entidade Parceira,18/4/2022,29/7/2022,50,10,10,"6,8",3400
+CMN ,PA ,Santarém ,8º BEC ,Operador de Munck ,SEST SENAT - Santarém ,Entidade Parceira,25/7/2022,5/8/2022,60,8,8,7,3360
+CMN ,PA ,Santarém ,8º BEC ,Op Caminhão Basculante ,SEST SENAT - Santarém ,Entidade Parceira,8/8/2022,19/8/2022,40,10,10,6,2400
+CMN ,PA ,Belém ,Cmdo CMN ,Estoquista ,SENAC ,Entidade Parceira,13/6/2022,5/8/2022,160,20,20,3,9600
+CMN ,PA ,Belém ,Cmdo CMN ,Garçom ,SENAC ,Entidade Parceira,4/7/2022,16/9/2022,240,15,15,5,18000
+CMN ,PA ,Belém ,Cmdo CMN ,Mecânica Diesel ,SENAI ,Entidade Parceira,4/7/2022,26/8/2022,160,10,10,"9,54",15264
+CMN ,PA ,Belém ,Cmdo CMN ,Eletricista Instalador de Baixa Tensão ,SENAI ,Entidade Parceira,1/8/2022,23/9/2022,160,10,10,"9,54",15264
+CMN ,PA ,Belém ,Cmdo CMN ,MECÂNICO DE MOTORES CICLO OTTO ,SENAI ,Entidade Parceira,1/8/2022,23/9/2022,160,10,10,"9,54",15264
+CMN ,PA ,Belém ,Cmdo CMN ,Auxiliar de Cozinha ,SENAC ,Entidade Parceira,4/7/2022,23/9/2022,240,20,20,6,28800
+CMN ,PA ,Belém ,Cmdo CMN ,Pedreiro de Alvenaria ,SENAI ,Entidade Parceira,30/5/2022,22/7/2022,160,20,20,0,0
+CMN ,PA ,Belém ,Cmdo CMN ,INSTALADOR HIDRÁULICO ,SENAI ,Entidade Parceira,30/5/2022,22/7/2022,160,20,20,0,0
+CMNE ,PB ,João Pessoa ,Cmdo 1º Gpt E ,Eletricista Baixa tensão ,SENAI ,Entidade Parceira,25/7/2022,26/8/2022,160,20,20,"4,38",14016
+CMNE ,PB ,João Pessoa ,Cmdo 1º Gpt E ,Pedreiro de Alvenaria ,SENAI ,Entidade Parceira,25/7/2022,26/8/2022,200,20,20,4,16000
+CMNE ,PB ,João Pessoa ,Cmdo 1º Gpt E ,Carpinteiros de Obra ,SENAI ,Entidade Parceira,25/7/2022,26/8/2022,160,20,20,"5,31",16992
+CMNE ,PB ,João Pessoa ,Cmdo 1º Gpt E ,transporte coletivo de passageiros ,SEST SENAT ,Entidade Parceira,4/7/2022,8/8/2022,50,15,15,8,6000
+CMNE ,PB ,João Pessoa ,Cmdo 1º Gpt E ,Condutor de veículos de emergência ,SEST SENAT ,Entidade Parceira,4/7/2022,8/7/2022,50,15,15,8,6000
+CMNE ,PB ,João Pessoa ,Cmdo 1º Gpt E ,Movimentação de Produtos Perigosos ,SEST SENAT ,Entidade Parceira,4/7/2022,8/7/2022,50,15,15,8,6000
+CMNE,PB,João Pessoa,1º Gpt E,"Curso de Motorista Profissional Categoria ""C""",DETRAN /PB,1º Gpt E,12/5/2022,08/011/22,50,15,15,"6,39","4792,5"
+CMNE,PB,João Pessoa,1º Gpt E,"Curso de Motorista Profissional Categoria ""D""",DETRAN /PB,1º Gpt E,18/5/2022,29/11/2022,50,4,4,"6,39",1278
+CMNE,PB,João Pessoa,1º Gpt E,"Curso de Motorista Profissional Categoria ""E""",DETRAN /PB,1º Gpt E,17/2/2022,30/6/2022,50,81,81,"6,39","25879,5"
+CMNE ,PB ,João Pessoa ,Cmdo 1º Gpt E ,Transporte de Cargas Indivisíveis ,SEST SENAT ,Entidade Parceira,1/8/2022,5/8/2022,50,15,15,8,6000
+CMNE ,PB ,João Pessoa ,Cmdo 1º Gpt E ,Instalador Hidráulico ,SENAI ,Entidade Parceira,6/6/2022,20/6/2022,160,32,32,0,0
+CMNE ,PB ,João Pessoa ,Cmdo 1º Gpt E ,Montador e Reparador de Computador ,SENAC ,Entidade Parceira,4/7/2022,18/7/2022,168,20,20,6,20160
+CMNE ,PB ,Rio Tinto ,TG 07-001 ,Garçom ,SENAC-PB ,Entidade Parceira,4/4/2022,24/6/2022,240,20,20,0,0
+CMNE ,PB ,Rio Tinto ,TG 07-001 ,PIZZAIOLO ,SENAC-PB ,Entidade Parceira,4/4/2022,8/4/2022,20,20,20,0,0
+CMNE ,PB ,Patos ,TG 07-002 ,Garçom ,SENAC-PB ,Entidade Parceira,4/4/2022,24/6/2022,240,20,20,0,0
+CMNE ,PB ,Patos ,TG 07-002 ,Pizzaiolo ,SENAC-PB ,Entidade Parceira,4/4/2022,8/4/2022,20,30,30,0,0
+CMNE ,PB ,Patos ,TG 07-002 ,CORELDRAW ,SENAC-PB ,Entidade Parceira,4/4/2022,20/4/2022,50,20,20,0,0
+CMNE ,PB ,Patos ,TG 07-002 ,Operador de Computador ,SENAC-PB ,Entidade Parceira,2/5/2022,8/7/2022,196,35,35,0,0
+CMNE ,PB ,Patos ,TG 07-002 ,Cozinha Conteporânea ,SENAC-PB ,Entidade Parceira,2/5/2022,13/5/2022,40,20,20,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Manutenção Hidráulica Predial ,SENAI ,Entidade Parceira,4/7/2022,8/7/2022,20,20,20,"6,5",2600
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Cozinha Brasileira ,SENAC ,Própria OM,4/7/2022,22/7/2022,60,20,20,8,9600
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Manutenção Hidráulica Predial ,SENAI ,Entidade Parceira,4/7/2022,8/7/2022,20,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Cozinha Brasileira ,SENAC ,Própria OM,4/7/2022,22/7/2022,60,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Técnicas de Guiamento em Turismo ,SENAC ,Entidade Parceira,1/8/2022,19/8/2022,60,20,20,9,10800
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Técnicas de Guiamento em Turismo ,SENAC ,Entidade Parceira,1/8/2022,19/8/2022,60,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Eletricista de Automóveis ,SENAI ,Própria OM,4/7/2022,5/8/2022,200,20,20,"6,43",25720
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Eletricista de Automóveis ,SENAI ,Própria OM,4/7/2022,5/8/2022,200,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Programador de Sistemas ,SENAC ,Entidade Parceira,4/7/2022,9/9/2022,200,20,20,5,20000
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Programador de Sistemas ,SENAC ,Entidade Parceira,4/7/2022,9/9/2022,200,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Padeiro ,SENAC ,Própria OM,4/7/2022,17/8/2022,260,20,20,"4,5",23400
+CMNE,PE,Recife ,PR Mnt/7,"Curso de Motorista Profissional Categoria ""C""",DETRAN /PE,PR Mnt/7,7/3/2022,30/11/2022,50,14,14,"49,51",34657
+CMNE,PE,Recife ,PR Mnt/7,"Curso de Motorista Profissional Categoria ""D""",DETRAN /PE,PR Mnt/7,2/3/2022,18/7/2022,50,5,5,"49,51","12377,5"
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Padeiro ,SENAC ,Própria OM,4/7/2022,17/8/2022,260,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Instalações Elétricas Residenciais ,SENAI ,Entidade Parceira,4/7/2022,15/7/2022,40,20,20,"9,75",7800
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Instalações Elétricas Residenciais ,SENAI ,Entidade Parceira,4/7/2022,15/7/2022,40,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,TORNEIRO MECÂNICO ,SENAI ,Entidade Parceira,4/7/2022,2/9/2022,180,20,20,"6,44",23184
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,TORNEIRO MECÂNICO ,SENAI ,Entidade Parceira,4/7/2022,2/9/2022,180,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Pintura Automotiva ,SENAI ,Própria OM,4/7/2022,29/7/2022,80,20,20,"6,44",10304
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Pintura Automotiva ,SENAI ,Própria OM,4/7/2022,29/7/2022,80,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Eletricista Instalador Predial Baixa Tensão ,SENAI ,Entidade Parceira,4/7/2022,9/9/2022,200,20,20,"6,43",25720
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Eletricista Instalador Predial Baixa Tensão ,SENAI ,Entidade Parceira,4/7/2022,9/9/2022,200,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Refrigeração e Climatização Residencial ,SENAI ,Própria OM,4/7/2022,10/8/2022,220,20,20,6,26400
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Refrigeração e Climatização Residencial ,SENAI ,Própria OM,4/7/2022,10/8/2022,220,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Gestão de Estoque ,SENAI ,Entidade Parceira,4/7/2022,13/7/2022,32,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Boas práticas fabricação alimentos e bebidas ,SENAI ,Própria OM,4/7/2022,13/7/2022,30,20,20,5,3000
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Boas práticas fabricação alimentos e bebidas ,SENAI ,Própria OM,4/7/2022,13/7/2022,30,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Instalador e reparador redes de computadores ,SENAI ,Entidade Parceira,4/7/2022,16/9/2022,220,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Auxiliar de cozinha ,SENAC ,Própria OM,4/7/2022,12/8/2022,240,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Web Designer ,SENAC ,Entidade Parceira,4/7/2022,26/8/2022,160,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Garçom ,SENAC ,Entidade Parceira,4/7/2022,23/9/2022,240,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Produção de imagens para meios digitais ,SENAC ,Entidade Parceira,4/7/2022,15/7/2022,40,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Mecânica Diesel ,SENAI ,Entidade Parceira,4/7/2022,15/7/2022,40,20,20,"6,5",5200
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Mecânica Diesel ,SENAI ,Entidade Parceira,4/7/2022,15/7/2022,40,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Atendimento Pré-Hospitalar ,SENAC ,Própria OM,4/7/2022,29/7/2022,80,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Técnicas de panificação com boas práticas ,SENAI ,Própria OM,4/7/2022,5/8/2022,100,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Condutor de veículos de emergência ,SENAI ,Entidade Parceira,4/7/2022,20/7/2022,50,20,20,"7,4",7400
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Condutor de veículos de emergência ,SENAI ,Entidade Parceira,4/7/2022,20/7/2022,50,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,CULINÁRIA REGIONAL ,SENAC ,Entidade Parceira,4/7/2022,18/7/2022,45,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Montador e Reparador de Computador ,SENAI ,Entidade Parceira,4/7/2022,26/8/2022,160,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Instalação e manutenção de computador ,SENAI ,Entidade Parceira,4/7/2022,1/8/2022,84,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Técnicas para montagem DRYWALL ,SENAI ,Entidade Parceira,4/7/2022,22/7/2022,60,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Soldador estruturas metálicas no processo MIG ,SENAI ,Entidade Parceira,4/7/2022,23/8/2022,292,5,5,0,0
+CMNE ,PE ,Recife ,Cmdo 7ª RM ,Técnicas de inspeção e armazenamento ,SENAI ,Entidade Parceira,4/7/2022,5/8/2022,100,5,5,0,0
+CMNE ,PE ,Petrolina ,72º BI Mtz ,Téc. Panificação com Boas Práticas de Fab. ,SENAI - Petrolina ,Própria OM,27/6/2022,1/7/2022,20,20,20,"14,02",5608
+CMNE ,PE ,Petrolina ,72º BI Mtz ,Instalações Elétricas Prediais ,SENAI - Petrolina ,Própria OM,3/10/2022,21/10/2022,40,20,20,"13,27",10616
+CMNE ,PE ,Caruaru ,TG 07-014 ,Assistente Administrativo ,SENAI - PE ,Entidade Parceira,11/4/2022,3/6/2022,160,30,30,0,0
+CMNE ,PE ,Caruaru ,TG 07-014 ,Eletricista de Automóvel ,SENAI - PE ,Entidade Parceira,4/4/2022,10/6/2022,200,25,25,0,0
+CMNE ,PE ,Caruaru ,TG 07-014 ,PROGRAMADOR WEB ,SENAI - PE ,Entidade Parceira,4/4/2022,24/6/2022,240,32,32,0,0
+CMNE ,PE ,Caruaru ,TG 07-014 ,Programador de Sistemas ,SENAI - PE ,Entidade Parceira,9/8/2022,17/10/2022,200,16,16,0,0
+CMNE ,PE ,Vitória de Santo Antão ,TG 07-004 ,PROGRAMADOR WEB ,SENAC-PE ,Entidade Parceira,18/4/2022,14/7/2022,240,19,19,0,0
+CMNE ,PE ,Vitória de Santo Antão ,TG 07-004 ,Programador de Sistemas ,SENAC-PE ,Entidade Parceira,18/4/2022,30/6/2022,200,19,19,0,0
+CMNE ,PI ,Teresina ,2º BEC ,Cozinheiro ,SENAC - PI ,Entidade Parceira,20/6/2022,21/12/2022,500,1,1,7,3500
+CMNE ,PI ,Teresina ,2º BEC ,Preparo e Decoração de Bolos e Tortas ,SENAC - PI ,Entidade Parceira,14/6/2022,30/6/2022,40,1,1,"12,5",500
+CMNE ,PI ,Teresina ,2º BEC ,salgados comerciais ,SENAC - PI ,Entidade Parceira,7/6/2022,11/4/2022,20,1,1,13,260
+CMNE ,PI ,Teresina ,2º BEC ,Salgados para Festas ,SENAC - PI ,Entidade Parceira,23/8/2022,26/8/2022,15,1,1,"13,34","200,1"
+CMNE ,PI ,Teresina ,2º BEC ,Preparação de Pratos para Buffet ,SENAC - PI ,Entidade Parceira,7/6/2022,21/6/2022,32,1,1,"17,19","550,08"
+CMNE ,PI ,Teresina ,2º BEC ,Administração e Suporte de Rede Linux Server ,SENAC - PI ,Entidade Parceira,31/10/2022,2/12/2022,120,4,4,"15,72","7545,6"
+CMNE ,PI ,Teresina ,2º BEC ,Proteção de Dados em Segurança de Redes de PC ,SENAC - PI ,Entidade Parceira,29/8/2022,12/9/2022,32,3,3,"21,14","2029,44"
+CMNE,PI,Teresina,2º BEC,"Curso de Motorista Profissional Categoria ""C""",DETRAN /PI,2º BEC,18/3/2022,21/11/2022,50,60,60,"12,91",38730
+CMNE ,PI ,Teresina ,25º BC ,Manutenção de Notebook ,SENAC - PI ,Entidade Parceira,8/8/2022,2/9/2022,60,5,5,"23,1",6930
+CMNE ,PI ,Teresina ,25º BC ,Preparação de Massas e Molhos ,SENAC - PI ,Entidade Parceira,8/8/2022,19/8/2022,20,6,6,"37,9",4548
+CMNE ,PI ,Teresina ,25º BC ,Condutores de Veículos de Emergência ,SENAT ,Entidade Parceira,15/8/2022,19/8/2022,16,13,13,"7,5",1560
+CMNE ,PI ,Teresina ,25º BC ,Condutor de ônibus Rodoviário ,SENAT ,Entidade Parceira,25/7/2022,5/8/2022,32,9,9,"7,82","2252,16"
+CMNE ,PI ,Teresina ,25º BC ,Diagramação Digital ,SENAC - PI ,Entidade Parceira,8/8/2022,26/8/2022,80,1,1,5,400
+CMNE ,PI ,Teresina ,25º BC ,Primeiros Socorros ,SENAC - PI ,Entidade Parceira,7/11/2022,11/11/2022,16,2,2,13,416
+CMNE ,PI ,Teresina ,25º BC ,Licitações e Contratos ,SENAC - PI ,Entidade Parceira,7/11/2022,18/11/2022,40,4,4,"3,75",600
+CMNE ,PI ,Teresina ,25º BC ,Frentista Abstecedor e Básico em Segurança ,SEST SENAT ,Entidade Parceira,8/8/2022,12/8/2022,26,3,3,"5,77","450,06"
+CMNE ,PI ,Teresina ,25º BC ,Garde Manger: Preparo de Saladas e Molhos ,SENAC - PI ,Entidade Parceira,19/9/2022,28/9/2022,20,6,6,"39,09","4690,8"
+CMNE ,PI ,Teresina ,25º BC ,Culinária para Iniciantes ,SENAC - PI ,Entidade Parceira,19/9/2022,28/9/2022,32,1,1,"12,6","403,2"
+CMNE ,PI ,Picos ,3º BEC ,Transporte de produtos perigosos ,SEST SENAT ,Entidade Parceira,11/7/2022,22/7/2022,50,10,10,"4,4",2200
+CMNE ,PI ,Picos ,3º BEC ,Transporte de Cargas Indivisíveis ,SEST SENAT ,Entidade Parceira,11/7/2022,22/7/2022,50,10,10,"4,4",2200
+CMNE ,PI ,Picos ,3º BEC ,transporte de emergência ,SEST SENAT ,Entidade Parceira,11/7/2022,22/7/2022,50,10,10,"4,4",2200
+CMNE ,PI ,Picos ,3º BEC ,Transporte Coletivo de Passageiros ,SEST SENAT ,Entidade Parceira,11/7/2022,22/7/2022,50,10,10,"4,4",2200
+CMNE ,PI ,Picos ,3º BEC ,Operação de retroescavadeira ,SEST SENAT ,Entidade Parceira,11/7/2022,15/7/2022,32,10,10,"17,19","5500,8"
+CMNE ,PI ,Picos ,3º BEC ,Operador de Munck ,SEST SENAT ,Entidade Parceira,11/7/2022,15/7/2022,32,10,10,"9,38","3001,6"
+CMS ,PR ,Ponta Grossa ,13º BIB ,Gerenciamento de Estoque ,SENAC - PONTA GROSSA ,Entidade Parceira,14/9/2022,10/10/2022,21,30,30,"6,67","4202,1"
+CMS ,PR ,Cascavel ,15º B Log ,OPERADOR DE EMPILHADEIRA ,SESI SENAI CASCAVEL ,Entidade Parceira,7/6/2022,9/6/2022,20,2,2,18,720
+CMS ,PR ,Cascavel ,15º B Log ,INSTALADOR HIDRÁULICO ,SESI SENAI CASCAVEL ,Entidade Parceira,30/5/2022,4/7/2022,60,2,2,"10,84","1300,8"
+CMS ,PR ,Cascavel ,15º B Log ,ELETRICISTA DE INSTALADOR RESIDENCIAL ,SESI SENAI CASCAVEL ,Entidade Parceira,4/7/2022,12/9/2022,120,3,3,8,2880
+CMS ,PR ,Palmas ,15ª Cia E Cmb ,Transporte de Emergência ,SEST SENAT ,Entidade Parceira,17/10/2022,21/10/2022,50,2,2,7,700
+CMS ,PR ,Palmas ,15ª Cia E Cmb ,Transporte de emergência ,SEST SENAT ,Entidade Parceira,26/10/2022,27/10/2022,15,2,2,"16,7",501
+CMS ,PR ,Palmas ,15ª Cia E Cmb ,Transporte Coletivo de Passageiros ,SEST SENAT ,Entidade Parceira,14/9/2022,15/9/2022,15,2,2,"16,7",501
+CMS ,PR ,Palmas ,15ª Cia E Cmb ,Operação e manutenção de tratores agrícolas ,SENAR ,Entidade Parceira,30/5/2022,1/6/2022,40,4,4,0,0
+CMS ,PR ,Palmas ,15ª Cia E Cmb ,Operação de escavadeira ,SENAR ,Entidade Parceira,20/6/2022,24/6/2022,40,3,3,0,0
+CMS,PR,Curitiba ,5° B Log,"Curso de Motorista Profissional Categoria ""C""",DETRAN /PR,5° B Log,16/3/2022,26/9/2022,50,40,40,"2,72","5442,92"
+CMS,PR,Curitiba ,5° B Log,"Curso de Motorista Profissional Categoria ""D""",DETRAN /PR,5° B Log,9/6/2022,22/10/2022,50,60,60,"2,72","8164,39"
+CMS,PR,Curitiba ,5° B Log,"Curso de Motorista Profissional Categoria ""E""",DETRAN /PR,5° B Log,18/3/2022,21/11/2022,50,22,22,"2,72","2993,61"
+CMS,PR,Londrina,5º BE Cmb Bld,"Curso de Motorista Profissional Categoria ""C""",DETRAN /PR,5º BE Cmb Bld,9/6/2022,22/10/2022,50,10,10,"4,3",2150
+CMS,PR,Londrina,5º BE Cmb Bld,"Curso de Motorista Profissional Categoria ""E""",DETRAN /PR,5º BE Cmb Bld,14/3/2022,16/11/2022,50,8,8,"4,3",1720
+CMS ,PR ,Palmas ,15ª Cia E Cmb ,Transporte Coletivo de Passageiros ,SENAR ,Entidade Parceira,27/6/2022,1/7/2022,50,1,1,0,0
+CMS ,PR ,Francisco Beltrão ,16º Esqd C Mec ,Auxiliar Administrativo ,SENAI-FRANCISCO BELTRÃO ,Entidade Parceira,25/4/2022,26/7/2022,160,4,4,0,0
+CMS ,PR ,Francisco Beltrão ,16º Esqd C Mec ,Auxiliar de Serviços automotivos ,SENAI-FRANCISCO BELTRÃO ,Própria OM,26/5/2022,17/9/2022,160,18,18,0,0
+CMS ,PR ,Francisco Beltrão ,16º Esqd C Mec ,Auxiliar de confecção-Caminho da profissão ,SENAI-FRANCISCO BELTRÃO ,Entidade Parceira,26/5/2022,30/7/2022,160,15,15,0,0
+CMS ,PR ,Cascavel ,33° B I Mec ,Eletricista Instalador Residencial ,SENAI - Cascavel ,Entidade Parceira,12/9/2022,7/11/2022,120,2,2,"8,75",2100
+CMS ,PR ,Cascavel ,33° B I Mec ,Transporte Coletivo de Passageiros ,SENAT ,Entidade Parceira,12/9/2022,23/9/2022,50,5,5,7,1750
+CMS ,PR ,Cascavel ,33° B I Mec ,Manutenção de Ar Condicionado Automotivo ,SENAI - Cascavel ,Entidade Parceira,12/9/2022,16/9/2022,40,2,2,15,1200
+CMS ,PR ,Cascavel ,33° B I Mec ,Transporte de Cargas Indivisíveis ,SENAT ,Entidade Parceira,12/9/2022,23/9/2022,50,2,2,7,700
+CMS ,PR ,Cascavel ,33° B I Mec ,MOPP ,SENAT ,Entidade Parceira,12/9/2022,23/9/2022,50,2,2,7,700
+CMS ,PR ,Curitiba ,5º B Log ,MOPP ,CENTEC CONESUL ,Entidade Parceira,27/6/2022,1/7/2022,50,13,13,6,3900
+CMS ,PR ,Curitiba ,5º B Log ,Transporte Coletivo de Passageiros ,CENTEC CONESUL ,Entidade Parceira,27/6/2022,1/7/2022,50,8,8,6,2400
+CMS ,PR ,Curitiba ,5º B Log ,Condutor de Veículo de Transporte de Emergênc ,CENTEC CONESUL ,Entidade Parceira,1/6/2022,5/6/2022,50,13,13,6,3900
+CMS ,PR ,Curitiba ,5º B Log ,Cargas Indivisíveis ,CENTEC CONESUL ,Entidade Parceira,6/7/2022,8/7/2022,50,5,5,6,1500
+CMS ,PR ,Curitiba ,5º B Log ,ELETRICISTA INSTALADOR PREDIAL DE BAIXA TENSÃ ,FIEP ,Entidade Parceira,4/7/2022,27/7/2022,60,6,6,9,3240
+CMS ,PR ,Curitiba ,5º B Sup ,Garçom ,SENAC ,Entidade Parceira,3/10/2022,13/5/2022,15,20,20,8,2400
+CMS ,PR ,Curitiba ,5º B Sup ,Mecanico Diesel - Básico ,SEST SENAT ,Entidade Parceira,17/10/2022,11/11/2022,20,10,10,10,2000
+CMS ,PR ,Curitiba ,5º GAC AP ,Boas práticas de fabricação de alimentos ,SENAI PORTÃO ,Entidade Parceira,4/7/2022,8/7/2022,8,20,20,11,1760
+CMS ,PR ,Rio Negro ,5º RCC ,Cozinha Brasileira ,SENAC ,Entidade Parceira,1/6/2022,31/7/2022,15,15,15,"17,78","4000,5"
+CMS ,PR ,Guaíra ,15ª Cia Inf Mtz ,Curso de Operação de Caminhão Munck (NR-11) ,SESI/SENAI//IEL - Unidade Toledo ,Própria OM,1/8/2022,5/8/2022,16,10,10,"19,7",3152
+CMS ,PR ,Curitiba ,Ba Adm Ap 5ª DE ,Condutor de veículos de emergência ,SEST/SENAT - Três Barras ,Entidade Parceira,3/10/2022,7/10/2022,50,3,3,6,900
+CMS ,PR ,Curitiba ,Ba Adm Ap 5ª DE ,Transporte Coletivo de Passageiros ,SEST/SENAT - Três Barras ,Entidade Parceira,3/10/2022,7/10/2022,50,4,4,6,1200
+CMS ,PR ,Curitiba ,Ba Adm Ap 5ª DE ,Transporte de produtos perigosos ,SEST/SENAT - Três Barras ,Entidade Parceira,3/10/2022,7/10/2022,50,1,1,6,300
+CMS ,PR ,Curitiba ,Ba Adm Ap 5ª DE ,Exel Intermediário ,SENAI - CANOINHAS ,Entidade Parceira,12/9/2022,15/9/2022,30,8,8,"3,23","775,2"
+CMS ,PR ,Curitiba ,Ba Adm Ap 5ª DE ,Assistente de Recursos Humanos ,SENAI - CANOINHAS ,Entidade Parceira,12/9/2022,7/11/2022,160,1,1,"2,23","356,8"
+CMS ,PR ,Rio Negro ,11ª Bia AAAe Ap ,Cozinha Brasileira ,SENAC ,Entidade Parceira,1/6/2022,30/6/2022,15,15,15,"17,78","4000,5"
+CMS ,PR ,Ponta Grossa ,3º RCC ,Introd ao Sv Garçom e Doces p/ Confeitaria ,SENAC - PONTA GROSSA ,Própria OM,1/8/2022,12/8/2022,60,30,30,"13,33",3999
+CMS ,PR ,Ponta Grossa ,3º RCC ,Condutor de veículos de emergência ,SEST SENAT ,Entidade Parceira,4/7/2022,5/8/2022,50,3,3,7,1050
+CMS ,PR ,Ponta Grossa ,3º RCC ,Transporte Coletivo de Passageiros ,SEST SENAT ,Entidade Parceira,4/7/2022,5/8/2022,50,3,3,7,1050
+CMS ,PR ,Ponta Grossa ,3º RCC ,Transporte de Cargas Indivisíveis ,SEST SENAT ,Entidade Parceira,4/7/2022,5/8/2022,50,3,3,7,1050
+CMS ,PR ,Cascavel ,Cia Cmdo 15ª Bda Inf Mtz ,Transporte Coletivo de Passageiros ,SENAT ,Entidade Parceira,1/8/2022,30/9/2022,50,1,1,5,250
+CMS ,PR ,Cascavel ,Cia Cmdo 15ª Bda Inf Mtz ,Condutor de Veículos de Emergência ,SENAT ,Entidade Parceira,1/8/2022,30/8/2022,50,7,7,7,2450
+CMS ,PR ,Apucarana ,30° B I Mec ,PINTOR DE OBRAS ,SENAI ,Própria OM,8/8/2022,23/9/2022,60,20,20,"9,5",11400
+CML ,RJ ,Rio de Janeiro ,AGR ,Eletricista Baixa tensão ,SENAI ,Própria OM,00/00/0000 ,00/00/0000 ,30,15,15,0,0
+CML ,RJ ,Rio de Janeiro ,AGR ,PEDREIRO ,SENAI ,Própria OM,00/00/0000 ,00/00/0000 ,40,12,12,0,0
+CML ,RJ ,Rio de Janeiro ,AGR ,Pintor Residêncial e Predial ,SENAI ,Própria OM,00/00/0000 ,00/00/0000 ,30,13,13,0,0
+CML ,RJ ,Rio de Janeiro ,AGR ,Básico de Refrigeração ,SENAI ,Própria OM,00/00/0000 ,00/00/0000 ,40,12,12,0,0
+CML ,RJ ,Rio de Janeiro ,AGR ,Instalador Hidráulico ,SENAI ,Própria OM,00/00/0000 ,00/00/0000 ,40,10,10,0,0
+CML ,RJ ,Rio de Janeiro ,BIBLIEx ,Design Gráfico Digital ,SENAC ,Entidade Parceira,16/5/2022,17/8/2022,112,1,1,"6,25",700
+CML ,RJ ,Rio de Janeiro ,BIBLIEx ,Instalações Hidráulicas Prediais ,SENAI ,Entidade Parceira,21/6/2022,2/8/2022,100,1,1,"9,87",987
+CML ,RJ ,Rio de Janeiro ,BIBLIEx ,Eletricista predial ,SENAI ,Entidade Parceira,22/6/2022,19/12/2022,380,1,1,"6,94","2637,2"
+CML ,RJ ,Rio de Janeiro ,BIBLIEx ,Marketing Digital ,SENAC ,Entidade Parceira,21/6/2022,13/9/2022,100,1,1,"10,43",1043
+CML ,RJ ,Rio de Janeiro ,BIBLIEx ,Metodologia de Cybersecurity ,SENAC ,Entidade Parceira,6/4/2022,6/5/2022,40,1,1,"0,8",32
+CML ,RJ ,Rio de Janeiro ,BIBLIEx ,Informática básica ,SENAC ,Entidade Parceira,7/6/2022,11/8/2022,100,1,1,"8,82",882
+CML ,RJ ,Rio de Janeiro ,BIBLIEx ,Instalação de Sistemas de Comandos Elétricos ,SENAI ,Entidade Parceira,12/5/2022,2/9/2022,120,1,1,"11,49","1378,8"
+CML,RJ,Rio de Janeiro,25º B Log (Es),"Curso de Motorista Profissional Categoria ""D""",DETRAN /RJ,25º B Log (ES),18/3/2022,21/11/2022,50,125,125,"3,81","23812,5"
+CML ,RJ ,Rio de Janeiro ,BIBLIEx ,Instalação de Sistemas de Segurança Eletrônic ,SENAI ,Entidade Parceira,14/4/2022,2/5/2022,60,1,1,"9,93","595,8"
+CML ,RJ ,Rio de Janeiro ,BIBLIEx ,Qualificação para Auxiliares de Biblioteca ,Class Cursos ,Entidade Parceira,27/5/2022,30/7/2022,120,1,1,"3,25",390
+CML ,RJ ,Rio de Janeiro ,BIBLIEx ,Primeiro socorros avançado ,Cruz Vermelha Brasileira ,Entidade Parceira,14/5/2022,11/6/2022,40,1,1,12,480
+CML ,RJ ,Rio de Janeiro ,BIBLIEx ,Primeiro socorros avançado ,Cruz Vermelha Brasileira ,Entidade Parceira,15/8/2022,12/9/2022,40,1,1,12,480
+CML ,RJ ,Rio de Janeiro ,CDE ,Camareira(o) em meios de hospedagem ,SENAC ,Entidade Parceira,25/4/2022,12/8/2022,216,1,1,"4,17","900,72"
+CML ,RJ ,Rio de Janeiro ,CDE ,Marketing Digital ,SENAC ,Entidade Parceira,20/6/2022,22/6/2022,8,5,5,20,800
+CML ,RJ ,Rio de Janeiro ,CEP ,Designer Gráfico ,SENAC ,Entidade Parceira,13/8/2022,25/2/2023,100,4,4,7,2800
+CML ,RJ ,Rio de Janeiro ,CEP ,Informática básica ,SENAC ,Entidade Parceira,16/8/2022,4/10/2022,60,1,1,"14,7",882
+CML ,RJ ,Rio de Janeiro ,CEP ,Ecoturismo ,SENAC ,Entidade Parceira,2/7/2022,10/9/2022,44,1,1,"8,85","389,4"
+CML ,RJ ,Rio de Janeiro ,Cia Cmdo CML ,MOPP ,SEST SENAT ,Entidade Parceira,9/6/2022,10/6/2022,18,3,3,"11,11","599,94"
+CML ,RJ ,Rio de Janeiro ,Cia Cmdo CML ,Condutor de veículos de emergência ,SEST SENAT ,Entidade Parceira,13/6/2022,17/6/2022,45,3,3,"6,67","900,45"
+CML ,RJ ,Rio de Janeiro ,Cia Cmdo CML ,Transporte Coletivo de Passageiros ,SEST SENAT ,Entidade Parceira,20/6/2022,21/6/2022,18,2,2,"11,11","399,96"
+CML ,RJ ,Rio de Janeiro ,Cia Cmdo CML ,Instalação e Mnt de Aparelhos de Ar Cond. ,SENAI - Vicente de Carvalho ,Entidade Parceira,5/9/2022,26/9/2022,60,1,1,"6,46","387,6"
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Proc e Ctl Qld em Refrigerantes e Refrescos ,FIRJAN ,Entidade Parceira,6/8/2022,3/9/2022,40,5,5,"16,26",3252
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Operador de Áudio ,FIRJAN ,Entidade Parceira,6/6/2022,5/10/2022,220,15,15,"10,73",35409
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Fotógrafo ,FIRJAN ,Entidade Parceira,23/5/2022,24/8/2022,212,15,15,"8,73","27761,4"
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Instalações Hidráulicas Prediais ,FIRJAN ,Entidade Parceira,13/6/2022,26/7/2022,100,20,20,"9,86",19720
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Técnicas de Montagem Drywall ,FIRJAN ,Entidade Parceira,23/5/2022,3/6/2022,40,20,20,"13,94",11152
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Técnicas de Montagem de Paredes de Concreto ,FIRJAN ,Entidade Parceira,7/5/2022,9/7/2022,40,15,15,"11,32",6792
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Téc de Montagem de Sistema Light Steel Frame ,FIRJAN ,Entidade Parceira,25/4/2022,6/5/2022,40,5,5,"26,5",5300
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Técnicas de aplicação de Porcelanato Líquido ,FIRJAN ,Entidade Parceira,20/4/2022,29/4/2022,24,15,15,"10,79","3884,4"
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Téc de Montagem de Sist Drywall - Mobiliários ,FIRJAN ,Entidade Parceira,9/8/2022,12/8/2022,16,15,15,"15,37","3688,8"
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Instalação de Sistemas de Seg Eletrônica ,FIRJAN ,Entidade Parceira,25/4/2022,13/5/2022,60,15,15,"9,93",8937
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Camareiro ,FAETEC Bangu ,Entidade Parceira,1/8/2022,15/12/2022,200,5,5,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Camareiro ,FAETEC Bangu ,Entidade Parceira,1/8/2022,15/12/2022,200,5,5,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Inglês Iniciante - 1ª Turma ,FAETEC Bangu ,Entidade Parceira,1/8/2022,15/12/2022,200,15,15,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Inglês Iniciante - 2ª Turma ,FAETEC Bangu ,Entidade Parceira,1/8/2022,15/12/2022,200,15,15,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Espanhol Básico I ,FAETEC Bangu ,Entidade Parceira,1/8/2022,15/12/2022,200,15,15,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Francês Básico I ,FAETEC Bangu ,Entidade Parceira,1/8/2022,15/12/2022,200,15,15,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Confeiteiro ,FAETEC Bangu ,Entidade Parceira,1/8/2022,15/12/2022,200,25,25,"0,41",2050
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Garçom ,FAETEC Bangu ,Entidade Parceira,1/8/2022,15/12/2022,200,25,25,"0,1",500
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Assistente Administrativo ,SENAI Benfica - Rio De Janeiro/RJ ,Entidade Parceira,18/7/2022,20/9/2022,180,15,15,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Assistente de Projeto FabLab ,SENAI Benfica - Rio De Janeiro/RJ ,Entidade Parceira,15/8/2022,25/10/2022,200,15,15,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Operador de Máquinas de Usin CNC ,SENAI Benfica - Rio De Janeiro/RJ ,Entidade Parceira,12/9/2022,10/5/2023,520,15,15,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Operador de Produçao Industrial ,SENAI Benfica - Rio De Janeiro/RJ ,Entidade Parceira,11/7/2022,25/11/2022,380,15,15,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Mantenedor e Ctl de Plantas Industriais ,SENAI Benfica - Rio De Janeiro/RJ ,Entidade Parceira,21/11/2022,16/12/2022,160,15,15,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Inversores de Frequência ,SENAI Benfica - Rio De Janeiro/RJ ,Entidade Parceira,24/10/2022,16/11/2022,60,15,15,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Prg de Aplicativos e Itg com IoT ,SENAI Benfica - Rio De Janeiro/RJ ,Entidade Parceira,5/12/2022,14/12/2022,60,15,15,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Eletricista Industrial ,SENAI Benfica - Rio De Janeiro/RJ ,Entidade Parceira,15/8/2022,30/11/2022,588,15,15,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Instalador de Sistemas Fotovoltaicos ,SENAI Benfica - Rio De Janeiro/RJ ,Entidade Parceira,11/7/2022,10/8/2022,180,15,15,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Garçom ,FAETEC Bangu ,Entidade Parceira,14/2/2022,14/7/2022,200,8,8,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Confeiteiro ,FAETEC Bangu ,Entidade Parceira,14/2/2022,14/7/2022,200,8,8,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Padeiro ,FAETEC Bangu ,Entidade Parceira,14/2/2022,14/7/2022,200,9,9,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Espanhol Básico I ,FAETEC Bangu ,Entidade Parceira,14/2/2022,14/7/2022,200,13,13,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Francês Básico I ,FAETEC Bangu ,Entidade Parceira,14/2/2022,14/7/2022,200,10,10,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Microempreendedor Individual (MEI) ,FAETEC Bangu ,Entidade Parceira,2/5/2022,12/7/2022,100,13,13,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Salgadeiro ,FAETEC Bangu ,Entidade Parceira,2/5/2022,12/7/2022,100,14,14,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo Bda Inf Pqdt ,Auxiliar de Cozinha ,FAETEC Bangu ,Entidade Parceira,2/5/2022,12/7/2022,100,6,6,0,0
+CML ,RJ ,Paracambi ,DC Mun ,Transporte de produtos perigosos ,CETREMP ,Entidade Parceira,11/7/2022,11/8/2022,20,5,5,"17,5",1750
+CML ,RJ ,Paracambi ,DC Mun ,Transporte Coletivo de Passageiros ,CETREMP ,Entidade Parceira,11/7/2022,11/8/2022,50,5,5,6,1500
+CML ,RJ ,Paracambi ,DC Mun ,transporte de emergência ,CETREMP ,Entidade Parceira,11/7/2022,11/8/2022,50,5,5,6,1500
+CML ,RJ ,Rio de Janeiro ,ECT ,OPERADOR DE EMPILHADEIRA ,SENAI- maracanã ,Entidade Parceira,4/7/2022,13/7/2022,40,1,1,"10,4",416
+CML ,RJ ,Rio de Janeiro ,ECT ,Pães Diversos ,Senac Madureira ,Entidade Parceira,21/6/2022,7/7/2022,60,1,1,"9,15",549
+CML ,RJ ,Rio de Janeiro ,EsACosAAe ,Condutor de veículos de emergência ,SEST/SENAT - Deodoro ,Entidade Parceira,21/6/2022,25/6/2022,50,2,2,6,600
+CML ,RJ ,Rio de Janeiro ,EsACosAAe ,transporte de produtos perigosos ,SEST/SENAT - Deodoro ,Entidade Parceira,11/6/2022,9/7/2022,50,3,3,6,900
+CML ,RJ ,Rio de Janeiro ,EsACosAAe ,ATUALIZAÇÃO COND VEIC TRNP COLETIVO DE PASSAG ,SEST/SENAT - Deodoro ,Entidade Parceira,30/6/2022,9/7/2022,16,2,2,"8,63","276,16"
+CML ,RJ ,Rio de Janeiro ,EsAO ,cozinha descomplicada ,SENAC ,Entidade Parceira,11/11/2022,2/12/2022,16,2,2,"33,47","1071,04"
+CML ,RJ ,Rio de Janeiro ,EsAO ,Doce para festas ,SENAC ,Entidade Parceira,1/10/2022,5/11/2022,24,2,2,"27,04","1297,92"
+CML ,RJ ,Rio de Janeiro ,EsAO ,TRANSPORTE DE EMERGÊNCIA ,SESC/SENAT ,Entidade Parceira,21/6/2022,25/6/2022,50,5,5,0,0
+CML ,RJ ,Rio de Janeiro ,EsAO ,Movimentação de Produtos Perigosos ,SESC/SENAT ,Entidade Parceira,4/4/2022,8/4/2022,50,2,2,0,0
+CML ,RJ ,Rio de Janeiro ,EsAO ,Compras governamentais: gestores públicos ,SEBRAE ,Própria OM,25/7/2022,27/7/2022,8,5,5,0,0
+CML ,RJ ,Rio de Janeiro ,EsAO ,Pregão eletrônico para o comprador ,SEBRAE ,Própria OM,25/7/2022,27/7/2022,4,5,5,0,0
+CML ,RJ ,Rio de Janeiro ,EsAO ,Informática básica ,SENAC ,Entidade Parceira,20/8/2022,26/11/2022,60,2,2,"6,65",798
+CML ,RJ ,Rio de Janeiro ,EsEFEx ,Fotógrafo ,FIRJAN ,Entidade Parceira,23/5/2022,24/8/2022,212,1,1,"8,7","1844,4"
+CML ,RJ ,Rio de Janeiro ,EsEqEx ,Básico/Avançado em Marcenaria ,RENOVART - Escola de Marcenaria ,Entidade Parceira,15/6/2022,16/8/2022,160,1,1,"9,38","1500,8"
+CML ,RJ ,Rio de Janeiro ,EsEqEx ,CONFEITEIRO ,SENAI ,Entidade Parceira,24/5/2022,14/8/2022,240,1,1,"3,56","854,4"
+CML ,RJ ,Rio de Janeiro ,EsEqEx ,Programador FullStack ,SENAI ,Entidade Parceira,17/5/2022,17/8/2022,670,1,1,"2,14","1433,8"
+CML ,RJ ,Rio de Janeiro ,HCmp ,Introdução a Gestão Financeira ,H Cmp ,Própria OM,18/7/2022,20/9/2022,30,1,1,0,0
+CML ,RJ ,Rio de Janeiro ,HCmp ,Investimentos e Aplicações ,H Cmp ,Própria OM,1/8/2022,14/9/2022,20,1,1,0,0
+CML ,RJ ,Rio de Janeiro ,HCmp ,Cipa-Conceitos e Implantação ,H Cmp ,Própria OM,7/11/2022,1/12/2022,30,1,1,0,0
+CML ,RJ ,Rio de Janeiro ,HCmp ,Mecânica Descomplicada ,H Cmp ,Própria OM,10/11/2022,20/12/2022,42,1,1,0,0
+CML ,RJ ,Rio de Janeiro ,HCmp ,Unitização e Movimentação de Conteineres ,H Cmp ,Própria OM,16/12/2022,25/1/2023,40,1,1,0,0
+CML ,RJ ,Rio de Janeiro ,HCmp ,Gerenciando com Excelência ,H Cmp ,Própria OM,21/11/2022,6/1/2023,30,1,1,0,0
+CML ,RJ ,Rio de Janeiro ,HCmp ,Gestão de Estoques e Armazenagem ,H Cmp ,Própria OM,9/1/2023,30/1/2023,30,1,1,0,0
+CML ,RJ ,Rio de Janeiro ,HCmp ,"Compras, Processamento de Pedidos e Controle ",H Cmp ,Própria OM,18/1/2023,17/2/2023,35,1,1,0,0
+CML ,RJ ,Rio de Janeiro ,HCmp ,Administração de materiais ,H Cmp ,Própria OM,5/1/2023,15/2/2023,30,1,1,0,0
+CML ,RJ ,Rio de Janeiro ,OCEx ,Auxiliar de Saúde Bucal ,ODONTOCLÍNICA CENTRAL DO EXÉRCITO ,Própria OM,24/1/2022,22/7/2022,900,30,30,0,0
+CML ,RJ ,Rio de Janeiro ,OCEx ,Manutenção Equipamentos Odontológicos ,ODONTOCLÍNICA CENTRAL DO EXÉRCITO ,Própria OM,7/2/2022,12/8/2022,350,6,6,"0,55",1155
+CML ,RJ ,Rio de Janeiro ,OCEx ,Manutenção de Equipamentos Odontológicos ,ODONTOCLÍNICA CENTRAL DO EXÉRCITO ,Própria OM,8/8/2022,10/2/2023,900,6,6,"0,55",2970
+CML ,RJ ,Niterói ,PclinMN ,Auxiliar de Saúde Bucal ,Policlinica Militar de Niteroi ,Própria OM,9/1/2023,30/6/2023,900,15,15,"0,7",9450
+CML ,RJ ,Niterói ,PclinMN ,Auxiliar de Saúde Bucal ,Policlinica Militar de Niteroi ,Própria OM,9/1/2023,30/6/2023,900,15,15,"0,06",810
+CML ,RJ ,Rio de Janeiro ,1º BG ,Instalador hidráulico ,Firjan Senai Tijuca ,Entidade Parceira,13/6/2022,26/7/2022,100,1,1,"9,86",986
+CML ,RJ ,Rio de Janeiro ,1º D Sup ,OPERADOR DE EMPILHADEIRA ,SENAI - SANTA CRUZ ,Entidade Parceira,25/7/2022,4/8/2022,32,10,10,"10,22","3270,4"
+CML ,RJ ,Rio de Janeiro ,1º D Sup ,Curso de Excel ,SENAI- maracanã ,Entidade Parceira,4/7/2022,13/7/2022,32,2,2,"14,52","929,28"
+CML ,RJ ,Rio de Janeiro ,1º D Sup ,Instalações Hidráulicas Prediais ,SENAI - TIJUCA ,Entidade Parceira,13/6/2022,26/7/2022,100,2,2,"9,87",1974
+CML ,RJ ,Rio de Janeiro ,1º D Sup ,OPERADOR DE EMPILHADEIRA ,SENAI - TIJUCA ,Entidade Parceira,12/9/2022,21/9/2022,32,10,10,"10,25",3280
+CML ,RJ ,Rio de Janeiro ,2º RCG ,ELETRICISTA DE AUTOMÓVEIS ,Firjan Senai Vicente de Carvalho ,Entidade Parceira,9/6/2022,2/8/2022,150,2,2,"8,58",2574
+CML ,RJ ,Rio de Janeiro ,2º RCG ,Instalações Hidráulico Predial ,Firjan Senai Tijuca ,Entidade Parceira,13/6/2022,26/7/2022,100,2,2,"9,86",1972
+CML ,RJ ,Rio de Janeiro ,2º RCG ,INSTALAÇÃO E REPARAÇÃO DE AR CONDICIONADO ,Firjan Senai Vicente de Carvalho ,Entidade Parceira,1/6/2022,21/6/2022,60,2,2,"10,43","1251,6"
+CML ,RJ ,Rio de Janeiro ,25º B Log (Es) ,Sistema de Injeção Eletrônica de Motocicleta ,Firjan Senai Jacarepaguá ,Entidade Parceira,6/6/2022,20/6/2022,40,2,2,"7,1",568
+CML ,RJ ,Rio de Janeiro ,31º GAC (Es) ,Instalador Hidraulico Predial ,Firjan Senai Tijuca ,Entidade Parceira,15/6/2022,26/7/2022,100,2,2,"9,86",1972
+CML ,RJ ,Rio de Janeiro ,31º GAC (Es) ,Técnica de montagem Drywall ,Firjan Senai Tijuca ,Entidade Parceira,9/8/2022,12/8/2022,16,2,2,"15,37","491,84"
+CML ,RJ ,Rio de Janeiro ,31º GAC (Es) ,Técnicas de aplicação de porcelanato líquido ,Firjan Senai Tijuca ,Entidade Parceira,24/10/2022,31/10/2022,24,1,1,"10,8","259,2"
+CML ,RJ ,Rio de Janeiro ,DECEx ,TECNOLOGIA DE MOTORES CICLO OTTO ,SENAI ,Entidade Parceira,16/5/2022,3/6/2022,60,3,3,"11,04","1987,2"
+CML ,RJ ,Rio de Janeiro ,DECEx ,INSTALAÇÃO E MNT DE APARELHOS DE REFR SPLIT ,SENAI ,Entidade Parceira,1/6/2022,00/00/0000 ,60,8,8,"10,5",5040
+CML ,RJ ,Rio de Janeiro ,DECEx ,INSTALAÇÕES HIDRAULICAS PREDIAIS ,SENAI ,Entidade Parceira,13/6/2022,26/7/2022,100,2,2,"9,9",1980
+CML ,RJ ,Rio de Janeiro ,DECEx ,Eletricista de Automóvel ,SENAI ,Entidade Parceira,3/10/2022,15/12/2022,150,9,9,"8,6",11610
+CML ,RJ ,Rio de Janeiro ,DECEx ,TEC DE MONTAGEM DE PAREDES DE CONCRETO ,SENAI ,Entidade Parceira,6/8/2022,3/9/2022,40,1,1,"11,4",456
+CML ,RJ ,Macaé ,9ª Bia AAAe (Es) ,ELETRICISTA INDUSTRIAL ,SENAI - MACAÉ ,Entidade Parceira,13/6/2022,11/11/2022,400,25,25,0,0
+CML ,RJ ,Macaé ,9ª Bia AAAe (Es) ,01 - Instalador e reparador de redes ,SENAI - MACAÉ ,Própria OM,20/6/2022,9/9/2022,220,25,25,0,0
+CML ,RJ ,Macaé ,9ª Bia AAAe (Es) ,Instalador hidráulico residencial ,SENAI - MACAÉ ,Própria OM,27/6/2022,14/10/2022,304,25,25,0,0
+CML ,RJ ,Macaé ,9ª Bia AAAe (Es) ,Pintor Industrial ,SENAI - MACAÉ ,Própria OM,18/7/2022,24/8/2022,200,25,25,0,0
+CML ,RJ ,Macaé ,9ª Bia AAAe (Es) ,Mecânico de manutenção de Motores Diesel ,SENAI - MACAÉ ,Entidade Parceira,4/7/2022,16/9/2022,380,25,25,0,0
+CML ,RJ ,Rio de Janeiro ,EsSLog ,Transporte coletivo de passageiros ,SENAT - DEODORO ,Entidade Parceira,10/8/2022,11/12/2022,50,3,3,6,900
+CML ,RJ ,Rio de Janeiro ,EsSLog ,TRANSPORTE DE PRODUTOS PERIGOSOS ,SENAT - DEODORO ,Entidade Parceira,10/8/2022,11/12/2022,50,4,4,6,1200
+CML ,RJ ,Rio de Janeiro ,EsSLog ,Condutor de veículos de emergência ,SENAT - DEODORO ,Entidade Parceira,10/8/2022,11/12/2022,50,4,4,6,1200
+CML ,RJ ,Rio de Janeiro ,EsSLog ,Mecânica Diesel ,SENAT - DEODORO ,Entidade Parceira,10/8/2022,11/12/2022,50,4,4,4,800
+CML ,RJ ,Rio de Janeiro ,EsSLog ,Transporte de cargas indivisíveis ,SENAT - DEODORO ,Entidade Parceira,10/8/2022,11/12/2022,50,6,6,6,1800
+CML ,RJ ,Rio de Janeiro ,EsSLog ,COZINHA DESCOMPLICADA PARA O DIA A DIA ,SENAC ,Entidade Parceira,29/4/2022,20/5/2022,20,3,3,27,1620
+CML ,RJ ,Rio de Janeiro ,EsSLog ,Sushiman ,Senac ,Entidade Parceira,4/5/2022,20/5/2022,24,1,1,32,768
+CML ,RJ ,Rio de Janeiro ,Bia C Sv / FSJ ,Introdução à Fotografia Digital ,SENAC ,Entidade Parceira,21/5/2022,27/8/2022,60,2,2,"9,34","1120,8"
+CML ,RJ ,Rio de Janeiro ,Bia C Sv / FSJ ,Básico/Avançado em Marcenaria ,RENOVART - Escola de Marcenaria ,Entidade Parceira,15/6/2022,16/8/2022,160,2,2,"9,38","3001,6"
+CML ,RJ ,Rio de Janeiro ,Bia C Sv / FSJ ,MECÂNICA DE REFRIGERAÇÃO DOMICILIAR ,SERAE ,Entidade Parceira,21/5/2022,21/8/2022,60,2,2,"22,5",2700
+CML ,RJ ,Rio de Janeiro ,Bia C Sv / FSJ ,Padeiro ,SENAC ,Entidade Parceira,1/6/2022,6/7/2022,200,1,1,3,600
+CML ,RJ ,Rio de Janeiro ,Bia C Sv / FSJ ,Montagem e Manutenção de Microcomputador ,SENAI ,Própria OM,1/6/2022,30/8/2022,160,2,2,"3,5",1120
+CML ,RJ ,Rio de Janeiro ,CCFEx / FSJ ,Técnicas de Montagem de Paredes de Concreto ,SENAI ,Entidade Parceira,7/5/2022,9/7/2022,40,2,2,"11,32","905,6"
+CML ,RJ ,Rio de Janeiro ,CCFEx / FSJ ,Instalações Hidráulicas Prediais ,SENAI ,Entidade Parceira,13/6/2022,26/7/2022,100,2,2,"9,86",1972
+CML ,RJ ,Rio de Janeiro ,CCFEx / FSJ ,Web Designer ,SENAC ,Entidade Parceira,23/5/2022,9/9/2022,160,1,1,10,1600
+CML ,RJ ,Rio de Janeiro ,CCFEx / FSJ ,Marketing Digital ,SENAC ,Entidade Parceira,21/6/2022,13/9/2022,84,1,1,"12,42","1043,28"
+CML ,RJ ,Rio de Janeiro ,CCFEx / FSJ ,Camareira(o) em meios de hospedagem ,SENAC ,Entidade Parceira,10/5/2022,9/6/2022,32,2,2,"15,6","998,4"
+CML ,RJ ,Rio de Janeiro ,CEADEx ,Eletricista Predial e Residencial ,CAPRERJ ,Entidade Parceira,4/7/2022,15/7/2022,40,1,1,"17,25",690
+CML ,RJ ,Rio de Janeiro ,DEPA ,Instalação de Sistemas de Seg Eletrônica ,SENAI ,Entidade Parceira,21/5/2022,2/7/2022,60,1,1,"9,93","595,8"
+CML ,RJ ,Rio de Janeiro ,DEPA ,Eletrecísta Residêncial e Predial ,CE3 ,Entidade Parceira,28/5/2022,9/6/2022,60,1,1,10,600
+CML ,RJ ,Resende ,H M R ,Auxiliar de Saúde Bucal ,Hospital Militar de Resende ,Própria OM,4/7/2022,16/12/2022,900,6,6,"1,22",6588
+CML ,RJ ,Rio de Janeiro ,1º BE Cmb (Es) ,MECÂNICO DE AUTOMÓVEIS LEVES ,FAETEC SANTA CRUZ ,Entidade Parceira,1/7/2022,1/10/2022,30,3,3,0,0
+CML ,RJ ,Rio de Janeiro ,1º BE Cmb (Es) ,MECÂNICO DE MOTORES À DIESEL ,FAETEC SANTA CRUZ ,Entidade Parceira,1/7/2022,1/10/2022,30,3,3,0,0
+CML ,RJ ,Rio de Janeiro ,1º BE Cmb (Es) ,Montador e Reparador de Computador ,FAETEC SANTA CRUZ ,Entidade Parceira,1/7/2022,1/10/2022,30,3,3,0,0
+CML ,RJ ,Rio de Janeiro ,1º BE Cmb (Es) ,SOLDADOR NO PROCESSO ELETRODO REVESTIDO AÇO ,FAETEC SANTA CRUZ ,Entidade Parceira,1/7/2022,1/10/2022,30,2,2,0,0
+CML ,RJ ,Rio de Janeiro ,1º BE Cmb (Es) ,INFORMÁTICA AMBIENTE WINDOWS II ,FAETEC SANTA CRUZ ,Entidade Parceira,1/7/2022,1/10/2022,30,2,2,0,0
+CML ,RJ ,Rio de Janeiro ,1º BE Cmb (Es) ,Atualização de transporte de produtos perigos ,SEST/SENAT PACIÊNCIA ,Entidade Parceira,21/6/2022,25/8/2022,32,3,3,0,0
+CML ,RJ ,Rio de Janeiro ,1º BE Cmb (Es) ,OPERADOR DE EMPILHADEIRA ,SEST/SENAT PACIÊNCIA ,Entidade Parceira,9/7/2022,15/8/2022,32,3,3,0,0
+CML ,RJ ,Rio de Janeiro ,5º CGEO ,Condutor de veículos de emergência ,SENAT - DEODORO ,Entidade Parceira,10/8/2022,8/9/2022,50,2,2,6,600
+CML ,RJ ,Rio de Janeiro ,5º CGEO ,Preparo de massas frescas e recheadas ,Centro Politécnico ,Entidade Parceira,10/10/2022,24/10/2022,52,3,3,"9,43","1471,08"
+CML ,RJ ,Rio de Janeiro ,5º CGEO ,Preparo de Pizzas ,SENAC NITERÓI ,Entidade Parceira,8/8/2022,22/8/2022,52,2,2,"11,35","1180,4"
+CML ,RJ ,Rio de Janeiro ,CCOPAB ,Condutor de Veículo de Emergêcia ,SENAT - DEODORO ,Entidade Parceira,21/6/2022,30/6/2022,50,4,4,6,1200
+CML ,RJ ,Rio de Janeiro ,CCOPAB ,Especializado de Movimentação de Produtos Per ,SENAT - DEODORO ,Entidade Parceira,11/6/2022,18/6/2022,50,4,4,6,1200
+CML ,RJ ,Rio de Janeiro ,CCOPAB ,Transporte Coletivo de Passageiros ,SENAT - DEODORO ,Entidade Parceira,11/6/2022,18/6/2022,50,3,3,6,900
+CML ,RJ ,Rio de Janeiro ,CCOPAB ,Cargas Indivisíveis ,SENAT - DEODORO ,Entidade Parceira,1/6/2022,6/7/2022,50,3,3,6,900
+CML ,RJ ,Rio de Janeiro ,CCOPAB ,Ciclo OTTO ,Firjan Senai Vicente de Carvalho ,Entidade Parceira,27/9/2022,18/10/2022,60,2,2,12,1440
+CML ,RJ ,Rio de Janeiro ,Cmdo 1ª DE ,Inst. e Mnt de aparelho de ar cond. ,SENAI ,Entidade Parceira,1/6/2022,21/6/2022,160,1,1,"3,91","1251,2"
+CML ,RJ ,Rio de Janeiro ,Cmdo 1ª DE ,Fotógrafo ,SENAI ,Entidade Parceira,23/5/2022,24/8/2022,212,1,1,"8,72","1848,64"
+CML ,RJ ,Rio de Janeiro ,Cmdo 1ª DE ,Encanador e instalador predial ,SENAI ,Entidade Parceira,13/6/2022,27/7/2022,100,1,1,"9,86",986
+CML ,RJ ,Rio de Janeiro ,Cmdo 1ª DE ,Instalador de Sistemas Drywall ,SENAI ,Entidade Parceira,9/8/2022,12/4/2022,16,1,1,"15,36","245,76"
+CML ,RJ ,Rio de Janeiro ,Cmdo 1ª DE ,PRODUÇÃO DE SALGADINHOS ,SENAC ,Entidade Parceira,26/8/2022,30/9/2022,20,1,1,"24,49","489,8"
+CML ,RJ ,Rio de Janeiro ,Cmdo 1ª DE ,ELETRICISTA DE AUTOMÓVEIS ,SENAI ,Própria OM,15/6/2022,16/9/2022,220,25,25,0,0
+CML ,RJ ,Rio de Janeiro ,Cmdo 1ª DE ,Recepcionista em Meios de Hospedagem ,SENAC ,Entidade Parceira,20/6/2022,31/8/2022,160,1,1,"2,24","358,4"
+CML ,RJ ,Rio de Janeiro ,Cmdo 1ª DE ,mecânico de motores ciclo otto ,SENAI ,Própria OM,15/6/2022,16/9/2022,260,25,25,0,0
+CML ,RJ ,Rio de Janeiro ,15º RC Mec (Es) ,Espanhol Básico ,FAETC DEODORO ,Entidade Parceira,16/3/2022,1/7/2022,434,1,1,0,0
+CML ,RJ ,Rio de Janeiro ,15º RC Mec (Es) ,Eletricista de Auto ,31º GAC ,Entidade Parceira,1/6/2022,31/8/2022,220,2,2,0,0
+CML ,RJ ,Rio de Janeiro ,15º RC Mec (Es) ,Instalador de Refrigeração e Climatização Dom ,31º GAC ,Entidade Parceira,1/6/2022,00/00/0000 ,260,2,2,0,0
+CML ,RJ ,Rio de Janeiro ,IPCFEx ,Web Designer ,SENAC ,Entidade Parceira,23/5/2022,9/9/2022,160,1,1,10,1600
+CML ,RJ ,Rio de Janeiro ,IPCFEx ,Design Gráfico Digital ,SENAC ,Entidade Parceira,4/6/2022,3/12/2022,96,1,1,"7,3","700,8"
+CML ,RJ ,Rio de Janeiro ,DF ,Informática Para Área Administrativa ,SENAI ,Entidade Parceira,6/6/2022,5/7/2022,84,10,10,0,0
+CML ,RJ ,Rio de Janeiro ,DF ,Inst. e manut. de ar condicionado tipo Split ,SENAI ,Entidade Parceira,00/00/0000 ,00/00/0000 ,60,10,10,0,0
+CML ,RJ ,Rio de Janeiro ,DF ,Instalador Hidraulico Predial ,SENAI ,Entidade Parceira,00/00/0000 ,00/00/0000 ,100,10,10,0,0
+CML ,RJ ,Rio de Janeiro ,BCMS ,Manutenção de Roçadeira ,WR Educacional - Educação de Excelência ,Própria OM,15/6/2022,15/7/2022,20,10,10,0,0
+CML ,RJ ,Rio de Janeiro ,BCMS ,Mecânica de Roçadeira ,WR Educacional - Educação de Excelência ,Própria OM,15/6/2022,15/7/2022,20,10,10,0,0
+CML ,RJ ,Rio de Janeiro ,CMRJ ,Padeiro ,SENAI ,Entidade Parceira,8/8/2022,19/8/2022,40,1,1,"17,43","697,2"
+CML ,RJ ,Rio de Janeiro ,CMRJ ,Técnicas de Montagem de Sistemas Drywall ,Firjan Senai Tijuca ,Entidade Parceira,16/8/2022,19/8/2022,16,1,1,"15,36","245,76"
+CMNE ,RN ,Natal ,Cmdo 7ª Bda Inf Mtz ,PINTOR DE OBRAS ,SENAI ,Entidade Parceira,2/5/2022,24/6/2022,240,11,11,0,0
+CMNE ,RN ,Natal ,Cmdo 7ª Bda Inf Mtz ,Mestre de Obras ,SENAI ,Entidade Parceira,9/5/2022,18/11/2022,320,5,5,0,0
+CMNE ,RN ,Natal ,Cmdo 7ª Bda Inf Mtz ,ALMOXARIFE ,SENAI ,Própria OM,30/5/2022,25/7/2022,160,10,10,0,0
+CMNE ,RN ,Natal ,Cmdo 7ª Bda Inf Mtz ,Pedreiro de Alvenaria ,SENAI ,Própria OM,1/8/2022,16/9/2022,240,20,20,"2,97",14256
+CMNE ,RN ,Natal ,Cmdo 7ª Bda Inf Mtz ,Eletricista Instalador Residencial ,SENAI ,Própria OM,5/9/2022,27/10/2022,240,20,20,"3,63",17424
+CMNE ,RN ,Natal ,Cmdo 7ª Bda Inf Mtz ,Encanador Hidráulico ,SENAI ,Própria OM,3/10/2022,25/11/2022,240,20,20,"2,68",12864
+CMNE ,RN ,Natal ,Cmdo 7ª Bda Inf Mtz ,Carpinteiro Telhadista ,SENAI ,Própria OM,15/8/2022,3/10/2022,240,20,20,"2,85",13680
+CMNE ,RN ,Mossoró ,TG 07-010 ,Mecânico de Manutenção de Automóveis ,SENAI-RN ,Entidade Parceira,4/4/2022,12/7/2022,290,20,20,0,0
+CMNE ,RN ,Mossoró ,TG 07-010 ,Assistente Administrativo ,SENAC-RN ,Entidade Parceira,4/4/2022,27/5/2022,160,25,25,0,0
+CMA ,RO ,Porto Velho ,Cmdo 17ª Bda Inf Sl ,MECÂNICO DE MOTORES DE POPA ,SENAI CEET PORTO VELHO ,Entidade Parceira,6/6/2022,00/00/0000 ,160,20,20,6,19200
+CMA ,RO ,Porto Velho ,Cmdo 17ª Bda Inf Sl ,MECÂNICO DE MOTORES A DIESEL ,SENAI CEET PORTO VELHO ,Entidade Parceira,6/6/2022,8/7/2022,160,20,20,6,19200
+CMA ,RO ,Porto Velho ,Cmdo 17ª Bda Inf Sl ,COZINHEIRO INDUSTRIAL ,SENAI CEET PORTO VELHO ,Entidade Parceira,11/7/2022,00/00/0000 ,160,20,20,6,19200
+CMA ,RO ,Porto Velho ,Cmdo 17ª Bda Inf Sl ,OPERADOR DE COMPUTADOR ,SENAI CEET PORTO VELHO ,Entidade Parceira,3/10/2022,2/12/2022,400,20,20,0,0
+CMA ,RO ,Porto Velho ,Cmdo 17ª Bda Inf Sl ,Eletricista de Redes de Distribuição de Energ ,SENAI CEET PORTO VELHO ,Entidade Parceira,6/6/2022,5/8/2022,300,30,30,0,0
+CMA ,RO ,Porto Velho ,Cmdo 17ª Bda Inf Sl ,Assistente Administrativo ,SENAC - UNIDADE MÓVEL - GUAJARÁ-MIRIM/6º BIS ,Própria OM,15/8/2022,14/10/2022,160,20,20,6,19200
+CMA ,RR ,Boa Vista ,Cmdo 1ª Bda Inf Sl ,Instalador Hidráulico ,SENAI ,Entidade Parceira,11/7/2022,12/8/2022,100,15,15,"4,5",6750
+CMA ,RR ,Boa Vista ,Cmdo 1ª Bda Inf Sl ,Eletricista Instalador Predial e Residencial ,SENAI ,Entidade Parceira,11/7/2022,12/9/2022,180,15,15,"4,17",11259
+CMA ,RR ,Boa Vista ,Cmdo 1ª Bda Inf Sl ,Refrigeraçao Res e Instalador de Unid Split ,SENAI ,Entidade Parceira,15/8/2022,6/10/2022,240,15,15,"3,96",14256
+CMA ,RR ,Boa Vista ,Cmdo 1ª Bda Inf Sl ,TRANSPORTE DE CARGAS INDIVISÍVEIS E OUTRAS ,SEST SENAT ,Entidade Parceira,1/8/2022,17/8/2022,50,15,15,"7,6",5700
+CMA ,RR ,Boa Vista ,Cmdo 1ª Bda Inf Sl ,Transporte Coletivo de Passageiros ,SEST SENAT ,Entidade Parceira,8/8/2022,24/8/2022,50,15,15,"7,6",5700
+CMA ,RR ,Boa Vista ,Cmdo 1ª Bda Inf Sl ,Transporte de produtos perigosos ,SEST SENAT ,Entidade Parceira,8/8/2022,24/8/2022,50,15,15,"7,6",5700
+CMA ,RR ,Boa Vista ,Cmdo 1ª Bda Inf Sl ,Frentista Abastecedor ,SEST SENAT ,Entidade Parceira,12/9/2022,16/9/2022,20,15,15,"7,5",2250
+CMA ,RR ,Boa Vista ,Cmdo 1ª Bda Inf Sl ,PREPARO DE DOCES E SALGADOS ,SENAC ,Entidade Parceira,8/8/2022,29/8/2022,60,15,15,"7,34",6606
+CMS ,RS ,Pelotas ,Cia Cmdo 8ª Bda Inf Mtz ,Transporte Coletivo de Passageiros ,SEST SENAT - Pelotas ,Própria OM,1/8/2022,13/8/2022,50,25,25,"5,2",6500
+CMS ,RS ,Pelotas ,Cia Cmdo 8ª Bda Inf Mtz ,Transporte de Emergência ,SEST SENAT - Pelotas ,Própria OM,15/8/2022,27/8/2022,50,25,25,"5,2",6500
+CMS ,RS ,Santa Maria ,Cmdo 3ª DE ,Eletricista Instalador Predial - Baixa Tensão ,SENAI ,Entidade Parceira,8/8/2022,2/9/2022,160,15,15,7,16800
+CMS ,RS ,Santa Maria ,Cmdo 3ª DE ,Roçadeira - Operação e Manutenção ,SENAR ,Própria OM,22/8/2022,25/8/2022,16,17,17,0,0
+CMS ,RS ,Santa Maria ,Cmdo 3ª DE ,Jardinagem ,SENAR ,Própria OM,14/11/2022,18/11/2022,16,15,15,0,0
+CMS ,RS ,Porto Alegre ,CMPA ,Básico de Gesso Acartonado ,SENAI - Porto Alegre ,Entidade Parceira,3/10/2022,24/10/2022,30,1,1,"32,64","979,2"
+CMS ,RS ,Porto Alegre ,CMPA ,Eletricista Instalador Residencial ,SENAI - Porto Alegre ,Entidade Parceira,26/9/2022,14/11/2022,80,1,1,"12,13","970,4"
+CMS,RS,Santa Maria,4º B Log,"Curso de Motorista Profissional Categoria ""C""",DETRAN /RS,4º B Log,13/2/2022,28/7/2022,50,176,176,"2,19","19284,36"
+CMS,RS,Santa Maria,4º B Log,"Curso de Motorista Profissional Categoria ""D""",DETRAN /RS,4º B Log,18/5/2022,16/11/2022,50,85,85,"2,19","9313,47"
+CMS,RS,Santa Maria,4º B Log,"Curso de Motorista Profissional Categoria ""E""",DETRAN /RS,4º B Log,7/3/2022,30/11/2022,50,82,82,"2,19","8984,76"
+CMS,RS,Alegrete,10° B Log,"Curso de Motorista Profissional Categoria ""C""",DETRAN /RS,10° B Log,19/4/2022,17/11/2022,50,65,65,"0,4",1300
+CMS,RS,Alegrete,10° B Log,"Curso de Motorista Profissional Categoria ""D""",DETRAN /RS,10° B Log,12/5/2022,08/011/22,50,144,144,"0,4",2880
+CMS,RS,Alegrete,10° B Log,"Curso de Motorista Profissional Categoria ""E""",DETRAN /RS,10° B Log,18/5/2022,29/11/2022,50,100,100,"0,4",2000
+CMS,RS,Santiago,9º B Log,"Curso de Motorista Profissional Categoria ""C""",DETRAN /RS,9º B Log,17/2/2022,30/6/2022,50,3,3,"0,52",78
+CMS,RS,Santiago,9º B Log,"Curso de Motorista Profissional Categoria ""D""",DETRAN /RS,9º B Log,16/3/2022,26/9/2022,50,210,210,"0,52",5460
+CMS ,RS ,Porto Alegre ,CPOR / PA ,Transporte Coletivo de Passageiros ,SEST SENAT ,Entidade Parceira,3/10/2022,7/10/2022,50,5,5,"7,6",1900
+CMS ,RS ,Porto Alegre ,CPOR / PA ,Produção de Carnes e Molhos ,SEST SENAT ,Entidade Parceira,9/7/2022,30/7/2022,16,1,1,"43,54","696,64"
+CMS ,RS ,Porto Alegre ,CPOR / PA ,Primeiros Socorros ,Kris Reis Treinamentos ,Entidade Parceira,7/8/2022,7/8/2022,10,1,1,7,70
+CMS ,RS ,Porto Alegre ,CPOR / PA ,Preparo de Medicações ,Kris Reis Treinamentos ,Entidade Parceira,21/8/2022,21/8/2022,4,1,1,"37,5",150
+CMS ,RS ,Cruz Alta ,EASA ,Transporte Coletivo de Passageiros ,SEST SENAT ,Entidade Parceira,16/11/2022,23/11/2022,50,10,10,"7,6",3800
+CMS ,RS ,Uruguaiana ,Esqd Cmdo 2ª Bda C Mec ,Técnicas Básicas de Garçom ,SENAC URUGUAIANA ,Entidade Parceira,2/5/2022,2/6/2022,60,25,25,"7,64",11460
+CMS ,RS ,Santo Ângelo ,1° B Com ,transporte coletivo de passageiros ,SEST SENAT ,Própria OM,5/9/2022,10/9/2022,50,15,15,"6,2",4650
+CMS ,RS ,Alegrete ,10º B Log ,MECÂNICO DE MOTORES À DIESEL ,SENAI ,Própria OM,4/7/2022,26/7/2022,120,15,15,"9,5",17100
+CMS ,RS ,Alegrete ,10º B Log ,Transporte coletivo de passageiros ,SEST SENAT URUGUAIANA ,Própria OM,12/9/2022,23/9/2022,50,25,25,"5,2",6500
+CMS ,RS ,Jaguarão ,12º RC Mec ,Instalação Hidráulica Predial - 60 H ,FIERGS ,Própria OM,4/7/2022,15/7/2022,60,15,15,"7,67",6903
+CMS,RS,Santiago,9º B Log,"Curso de Motorista Profissional Categoria ""E""",DETRAN /RS,9º B Log,9/6/2022,22/10/2022,50,70,70,"0,52",1820
+CMS,RS,Santo Angelo,1º B Com,"Curso de Motorista Profissional Categoria ""C""",DETRAN /RS,1º B Com,18/3/2022,21/11/2022,50,3,3,"2,58",387
+CMS,RS,Santo Angelo,1º B Com,"Curso de Motorista Profissional Categoria ""D""",DETRAN /RS,1º B Com,13/2/2022,28/7/2022,50,40,40,"2,58",5160
+CMS,RS,Porto Alegre,3º B Com ,"Curso de Motorista Profissional Categoria ""D""",DETRAN /RS,3º B Com ,14/3/2022,16/11/2022,50,12,12,"17,31","10387,73"
+CMS,RS,São Gabriel,6º BE Cmb,"Curso de Motorista Profissional Categoria ""C""",DETRAN /RS,6º BE Cmb,18/5/2022,16/11/2022,50,10,10,"3,5","1767,88"
+CMS,RS,São Gabriel,6º BE Cmb,"Curso de Motorista Profissional Categoria ""D""",DETRAN /RS,6º BE Cmb,7/3/2022,30/11/2022,50,46,46,"3,5","8132,23"
+CMS ,RS ,Jaguarão ,12º RC Mec ,Básico para Padeiro - 40 H ,FIERGS ,Própria OM,4/7/2022,8/7/2022,40,15,15,"8,5",5100
+CMS ,RS ,Cachoeira do Sul ,13º GAC ,Soldador Básico MIG/MAG ,Escola Industrial - METALTEC ,Entidade Parceira,8/11/2022,25/11/2022,40,6,6,11,2640
+CMS ,RS ,Cachoeira do Sul ,13º GAC ,Confeitaria Básica ,SENAC ,Própria OM,4/7/2022,16/9/2022,96,6,6,15,8640
+CMS ,RS ,Cachoeira do Sul ,13º GAC ,padeiro ,SENAC ,Própria OM,13/6/2022,19/8/2022,96,6,6,15,8640
+CMS ,RS ,Sapucaia do Sul ,18º BI Mtz ,Transporte Produtos Perigosos ,SENAT ,Entidade Parceira,15/8/2022,19/8/2022,50,10,10,"7,6",3800
+CMS ,RS ,Sapucaia do Sul ,18º BI Mtz ,Transporte Coletivo de Passageiros ,SENAT ,Entidade Parceira,8/8/2022,12/8/2022,50,10,10,"7,6",3800
+CMS ,RS ,Sapucaia do Sul ,18º BI Mtz ,Condutor de veículos de emergência ,SENAT ,Entidade Parceira,1/8/2022,5/8/2022,50,10,10,"7,6",3800
+CMS ,RS ,São Leopoldo ,19º BI Mtz ,Transporte Coletivo ,SENAT ,Própria OM,28/11/2022,16/12/2022,50,10,10,6,3000
+CMS ,RS ,Santiago ,19º GAC ,Transporte Coletivo de Passageiros ,SEST SENAT - Santa Maria ,Própria OM,4/7/2022,8/7/2022,50,15,15,"9,6",7200
+CMS ,RS ,Santa Rosa ,19º RC Mec ,TRANSPORTE DE EMERGÊNCIA ,SEST SENAT ,Entidade Parceira,4/8/2022,13/8/2022,50,10,10,"6,2",3100
+CMS ,RS ,Santa Rosa ,19º RC Mec ,TRANSPORTE COLETIVO DE PASSAGEIROS ,SEST SENAT ,Entidade Parceira,18/8/2022,27/8/2022,50,10,10,"6,2",3100
+CMS ,RS ,Uruguaiana ,22º GAC / AP ,Cozinheiro ,SEST SENAT URUGUAIANA ,Própria OM,6/6/2022,4/7/2022,164,15,15,9,22140
+CMS ,RS ,Bagé ,3º B Log ,MÁQUINAS GUINDAUTO (MUNCK) ,SESI - BAGÉ ,Própria OM,4/7/2022,28/10/2022,16,10,10,"16,49","2638,4"
+CMS ,RS ,Porto Alegre ,3º BPE ,Condutor de veículos de emergência ,"SEST SENAT, Porto Alegre ",Entidade Parceira,4/7/2022,8/7/2022,50,10,10,"7,6",3800
+CMS ,RS ,Porto Alegre ,3º BPE ,Transporte coletivo de passageiros ,SEST/ SENAT- Porto Alegre ,Entidade Parceira,6/6/2022,10/6/2022,50,4,4,"7,6",1520
+CMS ,RS ,Caxias do Sul ,3º GAAAe ,Eletricista Automotivo ,SENAI ,Entidade Parceira,4/7/2022,22/8/2022,100,4,4,"10,97",4388
+CMS ,RS ,Caxias do Sul ,3º GAAAe ,Instalações hidráulicas e prediais ,SENAI ,Entidade Parceira,7/11/2022,5/12/2022,60,2,2,"7,5",900
+CMS ,RS ,Caxias do Sul ,3º GAAAe ,ELETRICISTA PREDIAL ,SENAI ,Entidade Parceira,10/10/2022,8/11/2022,160,2,2,"11,53","3689,6"
+CMS,RS,São Borja,2º RC Mec,"Curso de Motorista Profissional Categoria ""C""",DETRAN /RS,2º RC Mec,9/6/2022,22/10/2022,50,3,3,"1,54",231
+CMS,RS,São Borja,2º RC Mec,"Curso de Motorista Profissional Categoria ""D""",DETRAN /RS,2º RC Mec,18/3/2022,21/11/2022,50,16,16,"1,54",1232
+CMS,RS,São Borja,2º RC Mec,"Curso de Motorista Profissional Categoria ""E""",DETRAN /RS,2º RC Mec,19/4/2022,17/11/2022,50,9,9,"1,54",693
+CMS,RS,Porto Alegre,8º B Log,"Curso de Motorista Profissional Categoria ""C""",DETRAN /RS,8º B Log,12/5/2022,08/011/22,50,23,23,"0,27","310,5"
+CMS,RS,Porto Alegre,8º B Log,"Curso de Motorista Profissional Categoria ""D""",DETRAN /RS,8º B Log,18/5/2022,29/11/2022,50,122,122,"0,27",1647
+CMS,RS,Porto Alegre,8º B Log,"Curso de Motorista Profissional Categoria ""E""",DETRAN /RS,8º B Log,17/2/2022,30/6/2022,50,22,22,"0,27",297
+CMS,RS,Cachoeira do Sul ,3º BE Cmb,"Curso de Motorista Profissional Categoria ""D""",DETRAN /RS,3º BE Cmb,16/3/2022,26/9/2022,50,4,4,"27,37",5474
+CMS,RS,Cachoeira do Sul ,3º BE Cmb,"Curso de Motorista Profissional Categoria ""E""",DETRAN /RS,3º BE Cmb,9/6/2022,22/10/2022,50,6,6,"27,37",8211
+CMS ,RS ,São Luiz Gonzaga ,4º RCB ,Condutor de veículos de emergência ,CFC Cadore ,Entidade Parceira,11/7/2022,12/9/2022,50,10,10,8,4000
+CMS ,RS ,São Luiz Gonzaga ,4º RCB ,Transporte coletivo de passageiros ,CFC Cadore ,Entidade Parceira,11/7/2022,12/9/2022,50,10,10,8,4000
+CMS ,RS ,São Luiz Gonzaga ,4º RCB ,Cargas Indivisíveis ,CFC Cadore ,Entidade Parceira,1/8/2022,14/11/2022,50,2,2,8,800
+CMS ,RS ,São Luiz Gonzaga ,4º RCB ,MOPP ,CFC Cadore ,Entidade Parceira,4/7/2022,21/11/2022,50,5,5,8,2000
+CMS ,RS ,Bento Gonçalves ,6° B Com ,Condutor de veículos de emergência ,SEST SENAT - Bento Gonçalves ,Entidade Parceira,4/7/2022,8/7/2022,13,2,2,"23,1","600,6"
+CMS ,RS ,Bento Gonçalves ,6° B Com ,Transporte Coletivo de Passageiros ,SEST SENAT - Bento Gonçalves ,Entidade Parceira,4/7/2022,8/7/2022,50,2,2,6,600
+CMS ,RS ,São Gabriel ,6º BE Cmb ,Mecânico de Motores Diesel ,6º BE Cmb ,Entidade Parceira,4/7/2022,29/7/2022,120,15,15,"9,5",17100
+CMS ,RS ,Rio Grande ,6º GAC ,Exel Básico ,SENAR ,Própria OM,16/3/2022,5/4/2022,15,6,6,0,0
+CMS ,RS ,Alegrete ,6º RCB ,Pedreiro de Alvenaria ,SENAI BAGÉ/RS ,Própria OM,4/10/2022,20/10/2022,100,20,20,"9,5",19000
+CMS ,RS ,Porto Alegre ,8º B Log ,ELETRICISTA DE AUTOMÓVEIS ,SENAI ,Própria OM,6/6/2022,1/7/2022,160,2,2,"13,12","4198,4"
+CMS ,RS ,Porto Alegre ,8º Esqd C Mec ,Condutor de Veículos de Produtos Perigosos ,SEST SENAT ,Entidade Parceira,2/5/2022,6/5/2022,50,10,10,"7,6",3800
+CMS ,RS ,Porto Alegre ,8º Esqd C Mec ,Transporte Coletivo de Passageiros ,SEST SENAT ,Entidade Parceira,27/6/2022,1/7/2022,50,10,10,"7,6",3800
+CMS ,RS ,Uruguaiana ,8º RC Mec ,Eletricista Baixa tensão ,SENAC ,Própria OM,6/6/2022,21/6/2022,96,15,15,"7,32","10540,8"
+CMS ,RS ,Uruguaiana ,8º RC Mec ,Pintura e textura ,SENAC ,Própria OM,4/7/2022,15/7/2022,80,20,20,"7,18",11488
+CMS ,RS ,Uruguaiana ,8º RC Mec ,PEDREIRO ,SENAC ,Própria OM,4/7/2022,13/7/2022,60,20,20,"7,18",8616
+CMS ,RS ,Santiago ,9º B Log ,Condutor de Veículos de Produtos Perigosos ,SENAT ,Própria OM,13/6/2022,18/6/2022,50,15,15,"7,95","5962,5"
+CMS ,RS ,Pelotas ,9º BI Mtz ,Frentista Abastecedor ,SEST/SENAT ,Própria OM,22/8/2022,31/8/2022,20,15,15,9,2700
+CMS ,RS ,Porto Alegre ,1º CGEO ,MECÂNICO DE MOTORES À DIESEL ,SENAI - Porto Alegre ,Própria OM,17/5/2022,25/10/2022,160,1,1,"12,51","2001,6"
+CMS ,RS ,Porto Alegre ,1º CGEO ,Curso de Eletricista de Instalações Prediais ,SENAI - Porto Alegre ,Entidade Parceira,14/5/2022,22/7/2022,80,3,3,"12,14","2913,6"
+CMS ,RS ,Porto Alegre ,3º CGCFEx ,Fotografia ,Fluxo Escola Expandida LTDA ,Entidade Parceira,23/4/2022,30/4/2022,20,1,1,"32,5",650
+CMS ,RS ,Porto Alegre ,3º CGCFEx ,Instalações Elétricas ,SENAI - Porto Alegre ,Entidade Parceira,25/4/2022,8/6/2022,80,4,4,"11,34","3628,8"
+CMS ,RS ,Porto Alegre ,3º CGCFEx ,PRODUÇÃO DE PIZZAS ARTESANAIS ,SENAI - Porto Alegre ,Entidade Parceira,6/6/2022,8/6/2022,12,2,2,"27,5",660
+CMS ,RS ,Porto Alegre ,3º CGCFEx ,COLETIVO DE PASSAGEIROS ,SENAT ,Entidade Parceira,25/4/2022,29/4/2022,50,1,1,"7,6",380
+CMS ,RS ,Porto Alegre ,3º CGCFEx ,CONFECÇÃO DE DECKS E PERGOLADOS EM MADEIRA ,SENAI ,Entidade Parceira,9/5/2022,23/6/2022,80,2,2,"14,72","2355,2"
+CMS ,RS ,Porto Alegre ,3º CGCFEx ,CLIMATIZAÇÃO AUTOMOTIVA ,SENAI ,Entidade Parceira,23/5/2022,7/6/2022,36,2,2,"18,14","1306,08"
+CMS ,RS ,Alegrete ,12ª Cia Com Mec ,BÁSICO DE INSTALAÇÕES HIDRÁULICAS PREDIAIS ,SENAI BAGÉ/RS ,Própria OM,1/8/2022,15/8/2022,80,16,16,"9,5",12160
+CMS ,RS ,Bento Gonçalves ,8ª CIA COM ,Eletricista Predial ,SENAI - GARIBALDI ,Entidade Parceira,1/8/2022,7/10/2022,160,1,1,11,1760
+CMS ,RS ,Bagé ,25º GAC ,Mecânico de Refrigeração e Climatização Resid ,SENAI BAGÉ/RS ,Entidade Parceira,8/11/2022,28/11/2022,72,2,2,"14,05","2023,2"
+CMS ,RS ,Bagé ,25º GAC ,Instalações e manutenção de condionadores de ,SENAI BAGÉ/RS ,Entidade Parceira,8/11/2022,28/11/2022,72,2,2,"18,87","2717,28"
+CMS ,RS ,Bagé ,25º GAC ,Elaboração de planilhas automatizadas Exel ,SENAI BAGÉ/RS ,Entidade Parceira,4/7/2022,11/7/2022,20,2,2,"11,25",450
+CMS ,RS ,Nova Santa Rita ,3º B Sup ,transporte de produtos perigosos ,SEST/ SENAT- Porto Alegre ,Entidade Parceira,30/6/2022,30/6/2022,50,3,3,6,900
+CMS ,RS ,Nova Santa Rita ,3º B Sup ,Condutor de veículos de emergência ,SEST/ SENAT- Porto Alegre ,Entidade Parceira,1/8/2022,8/8/2022,50,3,3,6,900
+CMS ,RS ,Nova Santa Rita ,3º B Sup ,Operador de Empilhadeira ,SEST/ SENAT- Porto Alegre ,Entidade Parceira,3/10/2022,14/10/2022,16,10,10,"21,88","3500,8"
+CMS ,RS ,Nova Santa Rita ,3º B Sup ,Instalação Hidráulica ,SENAC - Porto Alegre ,Entidade Parceira,30/7/2022,15/8/2022,48,2,2,"16,5",1584
+CMS ,RS ,Porto Alegre ,H Mil A PORTO ALEGRE ,Manutenção e operação de roçadeira ,SENAR ,Própria OM,10/5/2022,12/5/2022,24,8,8,0,0
+CMS ,RS ,Porto Alegre ,H Mil A PORTO ALEGRE ,Bolachas e salgados ,SENAR ,Própria OM,2/6/2022,3/6/2022,16,15,15,0,0
+CMS ,RS ,Porto Alegre ,H Mil A PORTO ALEGRE ,Panificação caseira ,SENAR ,Própria OM,6/6/2022,8/6/2022,24,15,15,0,0
+CMS ,RS ,Porto Alegre ,H Mil A PORTO ALEGRE ,Tortas e docinhos ,SENAR ,Própria OM,9/6/2022,10/6/2022,16,15,15,0,0
+CMS ,RS ,Porto Alegre ,H Mil A PORTO ALEGRE ,Aproveitamento integral de alimentos ,SENAR ,Própria OM,13/6/2022,15/6/2022,24,15,15,0,0
+CMS ,RS ,Porto Alegre ,H Mil A PORTO ALEGRE ,Básico de GPS ,SENAR ,Própria OM,4/7/2022,5/7/2022,16,10,10,0,0
+CMS ,RS ,Porto Alegre ,H Mil A PORTO ALEGRE ,Produção de alimentos a base de arroz. ,SENAR ,Própria OM,17/10/2022,18/10/2022,16,15,15,0,0
+CMS ,RS ,Porto Alegre ,H Mil A PORTO ALEGRE ,Produção caseira da mandioca e seus derivados ,SENAR ,Própria OM,10/10/2022,11/10/2022,16,15,15,0,0
+CMS ,RS ,Porto Alegre ,H Mil A PORTO ALEGRE ,Transporte de Produtos Perigosos ,"SEST SENAT, Porto Alegre ",Entidade Parceira,15/8/2022,19/8/2022,50,5,5,"7,6",1900
+CMS ,RS ,Porto Alegre ,H Mil A PORTO ALEGRE ,Transporte Coletivo ,SEST/ SENAT- Porto Alegre ,Entidade Parceira,8/8/2022,12/8/2022,50,3,3,"7,6",1140
+CMS ,SC ,Florianópolis ,H Gu FLORIANÓPOLIS ,Transporte de Produtos Perigosos ,SENAT ,Entidade Parceira,8/8/2022,2/9/2022,50,5,5,6,1500
+CMS ,SC ,Florianópolis ,H Gu FLORIANÓPOLIS ,Transporte Coletivo de Passageiros ,SENAT ,Entidade Parceira,12/10/2022,11/11/2022,50,1,1,6,300
+CMS ,SC ,Florianópolis ,H Gu FLORIANÓPOLIS ,11 Confeiteiro Básico ,SENAI ,Entidade Parceira,3/10/2022,31/10/2022,40,21,21,"16,8",14112
+CMS ,SC ,Florianópolis ,H Gu FLORIANÓPOLIS ,22 Panificação ,SENAI ,Entidade Parceira,1/9/2022,30/9/2022,45,21,21,"14,54","13740,3"
+CMS ,SC ,Lages ,1º B Fv ,CONDUTORES DE TRANSPORTE COLETIVO DE PASSAGEI ,SEST SENAT ,Entidade Parceira,00/00/0000 ,20/7/2022,50,6,6,6,1800
+CMS ,SC ,Lages ,1º B Fv ,TRANSPORTE DE EMERGÊNCIA ,SEST/SENAT ,Entidade Parceira,4/7/2022,5/5/2022,50,5,5,6,1500
+CMS ,SC ,São Miguel do Oeste ,14º RC Mec ,Condutor de veículos de emergência ,CESPTRAN ,Própria OM,1/9/2022,1/12/2022,50,4,4,"9,38",1876
+CMS ,SC ,São Miguel do Oeste ,14º RC Mec ,Transporte Coletivo de Passageiros ,CESPTRAN ,Própria OM,1/9/2022,1/12/2022,50,10,10,"9,38",4690
+CMS ,SC ,São Miguel do Oeste ,14º RC Mec ,Transporte de Cargas Indivisíveis ,CESPTRAN ,Própria OM,1/9/2022,1/12/2022,50,5,5,"9,38",2345
+CMS ,SC ,São Miguel do Oeste ,14º RC Mec ,Transporte de produtos perigosos ,CESPTRAN ,Própria OM,1/9/2022,1/12/2022,50,5,5,"9,38",2345
+CMS,SC,Lages,1º B Fv,"Curso de Motorista Profissional Categoria ""C""",DETRAN /SC,1º B Fv,18/5/2022,16/11/2022,50,30,30,"12,32",18480
+CMS,SC,Lages,1º B Fv,"Curso de Motorista Profissional Categoria ""D""",DETRAN /SC,1º B Fv,7/3/2022,30/11/2022,50,9,9,"12,32",5544
+CMS,SC,Joinvile,62° BI,"Curso de Motorista Profissional Categoria ""D""",DETRAN /SC,62° BI,2/3/2022,18/7/2022,50,62,62,"6,34",19654
+CMS ,SC ,Blumenau ,23º BI ,Condutor de Veículo de Emergência ,SEST SENAT BLUMENAU-SC ,Entidade Parceira,15/8/2022,26/8/2022,50,7,7,"7,3",2555
+CMS ,SC ,Blumenau ,23º BI ,Transporte coletivo de passageiros ,SEST SENAT BLUMENAU-SC ,Entidade Parceira,25/7/2022,5/8/2022,50,5,5,"7,3",1825
+CMS ,SC ,Blumenau ,23º BI ,Atualização - Condutores Transporte Coletivo ,SEST SENAT BLUMENAU-SC ,Entidade Parceira,8/8/2022,12/8/2022,15,1,1,18,270
+CMS ,SC ,Blumenau ,23º BI ,MOPP ,SEST SENAT BLUMENAU-SC ,Entidade Parceira,4/7/2022,15/7/2022,50,2,2,"7,3",730
+CMS ,SC ,Blumenau ,23º BI ,Atualização - MOPP ,SEST SENAT BLUMENAU-SC ,Entidade Parceira,18/7/2022,22/7/2022,15,4,4,"17,34","1040,4"
+CMS ,SC ,Criciúma ,28º GAC ,PRINCIPIANTES NA COZINHA ,SENAI ,Entidade Parceira,1/8/2022,15/8/2022,20,10,10,"18,5",3700
+CMS ,SC ,Criciúma ,28º GAC ,ASSENTADOR CERÂMICO ,SENAI ,Própria OM,8/11/2022,7/12/2022,40,20,20,"10,75",8600
+CMS ,SC ,Joinville ,62º BI ,NR 35 - TRABALHO EM ALTURA ,CTE Segurança do trabalho e meio ambiente ,Entidade Parceira,4/7/2022,4/9/2022,8,15,15,"9,17","1100,4"
+CMS ,SC ,Joinville ,62º BI ,NR 10 ,CTST TREINAMENTOS E EPI ,Entidade Parceira,4/7/2022,4/9/2022,40,10,10,"5,75",2300
+CMS ,SC ,Joinville ,62º BI ,Condutores de Veículos de Emergência ,SEST/SENAT ,Entidade Parceira,4/7/2022,4/10/2022,50,20,20,"4,8",4800
+CMS ,SC ,Joinville ,62º BI ,Veículo Transporte de Produtos Perigosos ,SEST/SENAT ,Entidade Parceira,4/7/2022,5/9/2022,50,20,20,"4,8",4800
+CMS ,SC ,Joinville ,62º BI ,VEÍCULOS DE TRANSPORTE COLETIVO DE PASSAGEIRO ,SEST/SENAT ,Entidade Parceira,4/7/2022,5/9/2022,50,20,20,"4,8",4800
+CMS ,SC ,Florianópolis ,63º BI ,AUXILIAR DE MANUTENÇÃO PREDIAL ,SENAI ,Própria OM,1/7/2022,15/8/2022,160,21,21,"8,62","28963,2"
+CMS ,SC ,Florianópolis ,63º BI ,Manutenção de Ar Condicionado Split System ,SENAI ,Entidade Parceira,22/8/2022,9/9/2022,40,21,21,"14,8",12432
+CMS ,SC ,Porto União ,5º BE Cmb Bld ,Operação de empinhadeira de pequeno porte ,SENAI ,Entidade Parceira,8/8/2022,11/8/2022,16,20,20,"16,38","5241,6"
+CMS ,SC ,Florianópolis ,Cia Cmdo 14ª Bda Inf Mtz ,Mecânica Básica de Automóveis ,SENAI/SC São José ,Própria OM,1/8/2022,1/9/2022,100,21,21,"9,5",19950
+CMS ,SC ,Florianópolis ,Cia Cmdo 14ª Bda Inf Mtz ,Assentador de Revestimento Cerâmico ,SENAI/SC São José ,Própria OM,1/9/2022,2/10/2022,40,21,21,"14,35",12054
+CMNE ,SE ,Aracaju ,28º BC ,Condutor de veículos de emergência ,SEST SENAT ,Entidade Parceira,7/11/2022,12/12/2022,50,10,10,3,1500
+CMNE ,SE ,Aracaju ,28º BC ,ELETRICISTA INST ALADOR PREDIAL DE BAIXA TEN ,SENAI ,Entidade Parceira,4/7/2022,30/12/2022,80,20,20,"7,37",11792
+CMNE ,SE ,Aracaju ,28º BC ,CONFEITARIA PARA INICIANTES ,SENAI ,Própria OM,6/6/2022,30/12/2022,70,20,20,"4,79",6706
+CMSE ,SP ,Taubaté ,Ba Av T ,Movimentação de Produtos Perigosos ,SENAT/TAUBATÉ ,Entidade Parceira,10/9/2022,1/10/2022,50,3,3,7,1050
+CMSE ,SP ,Taubaté ,Ba Av T ,Transporte coletivo de passageiros ,SENAT/TAUBATÉ ,Entidade Parceira,10/9/2022,1/10/2022,50,3,3,7,1050
+CMSE ,SP ,Taubaté ,Ba Av T ,CONDUTOR DE VEÍCULO DE EMERGÊNCIA ,SENAT/TAUBATÉ ,Entidade Parceira,10/9/2022,1/10/2022,50,3,3,7,1050
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,rotinas administrativa ,SENAI ,Entidade Parceira,4/4/2022,7/4/2022,100,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,auxiliar para comunicação em libras ,SENAI ,Entidade Parceira,12/3/2022,7/7/2022,60,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Auto cad 2d ,SENAI-São Paulo ,Entidade Parceira,25/7/2022,12/7/2022,48,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Segurança em Instalações e Serviços com Eletr ,SENAI-São Paulo ,Entidade Parceira,21/3/2022,25/2/2022,40,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Manutenção de Cadeiras Odontológicas ,SENAI-São Paulo ,Entidade Parceira,2/5/2022,11/5/2022,56,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Assistente Financeiro ,SENAI-São Paulo ,Entidade Parceira,1/4/2022,24/6/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Power BI ,SENAI-São Paulo ,Entidade Parceira,2/4/2022,23/4/2022,20,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Excel Completo ,SENAI-São Paulo ,Entidade Parceira,5/4/2022,24/4/2022,80,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,montagem e Manutenção de Microcomputador ,SENAI-São Paulo ,Entidade Parceira,12/4/2022,1/6/2022,80,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Informática básica ,SENAI-São Paulo ,Entidade Parceira,11/5/2022,10/6/2022,60,3,3,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Auxiliar Administrativo ,SENAI-São Paulo ,Entidade Parceira,28/5/2022,29/10/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Movimentação e Operação de Produtos Perigosos ,SENAT/TAUBATÉ ,Entidade Parceira,3/10/2022,2/11/2021,20,5,5,"17,5",1750
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Manutenção de Cadeiras Odontológicas ,SENAI Vila Leopoldina ,Entidade Parceira,2/5/2022,11/5/2022,56,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Assistente Financeiro ,SENAI-São Paulo ,Entidade Parceira,1/4/2022,24/6/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Power BI ,SENAI-São Paulo ,Entidade Parceira,2/4/2022,23/4/2022,20,1,1,0,0
+CMSE,SP,Barueri,22º B Log Amv,"Curso de Motorista Profissional Categoria ""C""",DETRAN /SP,22º B Log Amv,18/5/2022,29/11/2022,50,17,17,"3,76","3196,89"
+CMSE,SP,Barueri,22º B Log Amv,"Curso de Motorista Profissional Categoria ""D""",DETRAN /SP,22º B Log Amv,9/6/2022,22/10/2022,50,78,78,"3,76","14668,11"
+CMSE,SP,Jundiaí,12º GAC,"Curso de Motorista Profissional Categoria ""C""",DETRAN /SP,12º GAC,18/3/2022,21/11/2022,50,5,5,"12,5",3125
+CMSE,SP,Jundiaí,12º GAC,"Curso de Motorista Profissional Categoria ""D""",DETRAN /SP,12º GAC,19/4/2022,17/11/2022,50,25,25,"12,5",15625
+CMSE,SP,Praia Grande,2º GAAAe,"Curso de Motorista Profissional Categoria ""C""",DETRAN /SP,2º GAAAe,12/5/2022,08/011/22,50,1,1,"14,58","728,85"
+CMSE,SP,Praia Grande,2º GAAAe,"Curso de Motorista Profissional Categoria ""D""",DETRAN /SP,2º GAAAe,18/5/2022,29/11/2022,50,23,23,"14,58","16763,45"
+CMSE,SP,Campinas,2º B Log,"Curso de Motorista Profissional Categoria ""D""",DETRAN /SP,2º B Log,17/2/2022,30/6/2022,50,30,30,"8,5",12755
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Excel Completo ,SENAI-São Paulo ,Entidade Parceira,5/4/2022,24/5/2022,80,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Eletricista de Refrigeração e Climati ,SENAI Ipiranga - SP ,Entidade Parceira,7/5/2022,21/5/2022,24,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Marcenaria sob Medida - Dormitório ,SENAI Roberto Simonsem - SP ,Entidade Parceira,3/6/2022,7/7/2022,48,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Assistente Financeiro ,SENAI Ary Torres - SP ,Entidade Parceira,6/6/2022,16/9/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Power BI ,SENAI Santa Cecília - SP ,Entidade Parceira,7/6/2022,30/7/2022,20,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Mecânico Suspenção Dir Freio veículos Leves ,SENAI Ipiranga - SP ,Entidade Parceira,1/6/2022,31/8/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Eletricista Instalador Residencial ,SENAI Aclimação - SP ,Entidade Parceira,13/6/2022,5/8/2022,160,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Instalador Sistema Votovoltaicas ,SENAI Aclimação - SP ,Entidade Parceira,13/6/2022,5/8/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Aprendizagem Industrial ,SENAI Ipiranga - SP ,Entidade Parceira,1/7/2022,31/12/2022,20,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Funileiro Automotivo ,SENAI Ipiranga - SP ,Entidade Parceira,2/8/2022,25/10/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Seguraça nas atividades com trabalhosem altur ,SENAI Roberto Simonsem - SP ,Entidade Parceira,13/8/2022,20/8/2022,24,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Auxiliar Administrativo ,SENAI Roberto Simonsem - SP ,Própria OM,10/8/2022,15/12/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Manutenção de Equipamentos Odontológicos ,SENAI Vila Leopoldina ,Entidade Parceira,3/10/2022,31/8/2022,56,12,12,"20,84","14004,48"
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Auto cad 2d ,SENAI Roberto Simonsem - SP ,Entidade Parceira,25/4/2022,12/5/2022,48,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Eletricista Instalador Residencial ,SENAI-José EPhim Mindin - SP ,Entidade Parceira,3/5/2022,11/11/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Excel Básico ,SENAI-José EPhim Mindin - SP ,Entidade Parceira,6/5/2022,1/6/2022,40,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Mecânico Auxiliar Automotivo ,SENAI Luis Eulalio de Bueno Vidgal Filho - SP ,Entidade Parceira,10/5/2022,11/8/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Comandos Elétricos ,SENAI-José EPhim Mindin - SP ,Entidade Parceira,24/5/2022,10/8/2022,120,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Ferramenteiro Construção Moldes p/Plástico ,SENAI Roberto Simonsem - SP ,Entidade Parceira,17/5/2022,30/8/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Auto cad 2d ,SENAI Roberto Simonsem - SP ,Entidade Parceira,28/5/2022,2/7/2022,48,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Soldador ao Arco Elétrico-Tig ,SENAI Felix Guisard - Taubaté SP ,Entidade Parceira,18/6/2022,12/11/2022,160,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,REFRIGERAÇÃO E CLIMATIZAÇÃO ,SENAI Ipiranga - SP ,Entidade Parceira,20/6/2022,12/8/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,ELETRICISTA INSTALADOR RESIDENCIAL ,SENAI Felix Guisard - Taubaté SP ,Entidade Parceira,2/7/2022,11/11/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Eletricista Instalador Residencial ,SENAI Jundiaí SP ,Entidade Parceira,6/7/2022,14/9/2022,160,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Curso de Comandos Eletricos ,SENAI Roberto Simonsem - SP ,Entidade Parceira,16/7/2022,17/11/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Informática básica ,SENAI Diadema SP ,Entidade Parceira,30/7/2022,24/9/2022,60,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,construtor de alvenaria ,SENAI Tatuapé SP ,Entidade Parceira,6/8/2022,17/12/2022,160,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Excel Completo ,SENAI Jandira SP ,Entidade Parceira,25/7/2022,9/9/2022,80,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Manutenção de Pontas Odontológicas ,SENAI Vila Leopoldina ,Entidade Parceira,5/8/2022,12/8/2022,16,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Pintor de Automotivo ,SENAI Ipiranga - SP ,Entidade Parceira,23/8/2022,11/11/2022,180,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Eletricista instalador residencial ,senai Conde Alexandre Siciliano ,Entidade Parceira,24/8/2022,3/11/2022,160,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Energia Solar Fotovoltaica Tecnologia Aplicaç ,SENAI Tatuapé SP ,Entidade Parceira,27/8/2022,10/9/2022,24,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Auxiliar de recursos humanos ,SENAI Jandira SP ,Entidade Parceira,12/9/2022,6/12/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Soldador de Arco Elétrico e Oxigás ,SENAI Jundiaí SP ,Entidade Parceira,13/9/2022,13/12/2022,168,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,1-Redes de Computadores Implantação ,SENAI Roberto Simonsem - SP ,Entidade Parceira,17/9/2022,12/11/2022,48,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,2-Programação e impressão 3D ,SENAI Roberto Simonsem - SP ,Entidade Parceira,17/9/2022,8/10/2022,24,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Funileiro Automotivo ,SENAI Ipiranga - SP ,Entidade Parceira,2/8/2022,25/10/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Excel Pleno ,SENAI Roberto Simonsem - SP ,Entidade Parceira,24/9/2022,17/12/2022,80,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,3-Segurança nas Atv com trabalho em altura ,SENAI Roberto Simonsem - SP ,Entidade Parceira,13/8/2022,22/8/2022,24,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,5-Programação e impressão 3D ,SENAI Roberto Simonsem - SP ,Entidade Parceira,17/9/2022,8/10/2022,24,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,4-Soldador Arco Elétrico Eletrodo Revestido ,1-SENAI CAÇAPAVA ,Entidade Parceira,31/8/2022,13/2/2023,160,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,5-Mec Mnt em Refrigeração Climatização Resid ,1-SENAI CAÇAPAVA ,Entidade Parceira,13/8/2022,4/2/2023,160,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,6-Auxiliar Administrativo ,2-SENAI Santo Amaro Ary Torres ,Entidade Parceira,10/8/2022,16/12/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,7-Pintor imobiliário ,3-SENAI Tatuapé ,Entidade Parceira,1/10/2022,25/2/2023,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,6-Auxiliar Administrativo ,4-SENAI Jandira ,Entidade Parceira,12/9/2022,6/12/2022,160,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,8-Eletricista Instalador ,4-SENAI Jandira ,Entidade Parceira,16/8/2022,29/11/2022,160,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,9-Operador de empilhadeira ,5-SENAI Osasco ,Entidade Parceira,16/8/2022,30/8/2022,32,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,Assistente Financeiro ,6-SENAI São Bernardo ,Entidade Parceira,1/9/2022,9/12/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,10-Implantação Sv Inteligência Artificial Nuv ,7-SENAI Ipiranga-Conde josé V. Azevedo ,Entidade Parceira,16/8/2022,31/8/2022,40,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,11 Automação Predial ,10-SENAI Vila Alpina ,Entidade Parceira,20/10/2022,12/12/2022,120,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,12-Confeiteiro ,8-SENAI Barra Funda ,Entidade Parceira,8/9/2022,7/11/2022,160,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,13-Operador de Logística ,9-SENAI Vila Mariana ,Entidade Parceira,15/9/2022,12/12/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,6-Auxiliar Administrativo ,2-SENAI Santo Amaro Ary Torres ,Entidade Parceira,30/8/2022,23/11/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,2-Programação e impressão 3D ,11-SENAI Roberto Simonsem - Brás ,Entidade Parceira,17/9/2022,8/10/2022,24,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,14-Auto Cad 2D ,4-SENAI Jandira ,Entidade Parceira,16/8/2022,6/10/2022,48,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,15-Assistente Financeiro ,4-SENAI Jandira ,Entidade Parceira,24/9/2022,11/3/2023,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,16-Informática Básica ,2-SENAI Santo Amaro Ary Torres ,Entidade Parceira,6/10/2022,11/11/2022,60,2,2,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,17-Excel Avançado ,2-SENAI Santo Amaro Ary Torres ,Entidade Parceira,22/9/2022,18/10/2022,40,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,18-Excel Completo ,3-SENAI Tatuapé ,Entidade Parceira,15/9/2022,27/10/2022,80,3,3,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,19-Tapeceiro ,11-SENAI Roberto Simonsem - Brás ,Entidade Parceira,12/9/2022,11/10/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,Cmdo CMSE ,20-Auditor Interno NBR ISO9001 ,11-SENAI Roberto Simonsem - Brás ,Entidade Parceira,17/9/2022,8/10/2022,24,1,1,0,0
+CMSE ,SP ,Campinas ,EsPCEx ,Auxiliar de cozinheiro ,SENAI ,Própria OM,31/1/2022,7/4/2022,160,6,6,0,0
+CMSE ,SP ,Campinas ,EsPCEx ,CALDEIREIRO ,SENAI ,Própria OM,31/1/2022,4/2/2022,36,2,2,0,0
+CMSE ,SP ,Campinas ,EsPCEx ,Segurança no Uso Correto de Agrotóxicos ,SENAR ,Entidade Parceira,4/4/2022,6/4/2022,24,4,4,0,0
+CMSE ,SP ,Campinas ,EsPCEx ,Hidráulica Básica ,SENAR ,Própria OM,11/4/2022,14/4/2022,32,14,14,0,0
+CMSE ,SP ,Campinas ,EsPCEx ,Hidráulica Básica ,SENAR ,Própria OM,24/5/2022,27/6/2022,32,13,13,0,0
+CMSE ,SP ,Jundiaí ,12º GAC ,Auxiliar de serviços de alimentação ,Escola SENAI Prof. Dr. Euryclides de Jesus Ze ,Própria OM,11/4/2022,10/7/2022,160,16,16,0,0
+CMSE ,SP ,Jundiaí ,12º GAC ,Fabricação de salgados ,Escola SENAI Prof. Dr. Euryclides de Jesus Ze ,Própria OM,11/4/2022,12/5/2022,48,14,14,0,0
+CMSE ,SP ,Praia Grande ,2º GAAAe ,Motor Marinizados ,SENAI ,Entidade Parceira,30/5/2022,28/6/2022,120,3,3,0,0
+CMSE ,SP ,Praia Grande ,2º GAAAe ,Salgadeiro ,SENAI ,Entidade Parceira,20/7/2022,4/8/2022,48,2,2,"13,85","1329,6"
+CMSE ,SP ,Osasco ,4º BIL ,Excel Básico ,SENAI Nadir Dias de Figueiredo ,Entidade Parceira,28/6/2022,13/7/2022,40,11,11,"11,6",5104
+CMSE ,SP ,Osasco ,4º BIL ,Instalações Elétricas ,FATEC/ETEC ,Entidade Parceira,3/8/2022,5/10/2022,40,16,16,0,0
+CMSE ,SP ,Taubaté ,B Mnt Sup Av Ex ,SOLDADOR AO ARCO ELÉTRICO TIG ,SENAI - Taubaté ,Entidade Parceira,30/7/2022,7/1/2023,168,4,4,0,0
+CMSE ,SP ,Taubaté ,B Mnt Sup Av Ex ,Implantação de Serviços em Nuvem - AWS Cloud ,SENAI - Taubaté ,Entidade Parceira,1/8/2022,24/8/2022,80,2,2,0,0
+CMSE ,SP ,São Paulo ,3º CTA ,Energia solar fotovoltaíca Tec e aplicação ,SENAI ,Entidade Parceira,27/8/2022,10/9/2022,24,1,1,0,0
+CMSE ,SP ,São Paulo ,3º CTA ,Automação Predial ,SENAI ,Entidade Parceira,20/10/2022,19/12/2022,120,1,1,0,0
+CMSE ,SP ,São Paulo ,3º CTA ,Excel básico e avançado ,SENAI ,Entidade Parceira,24/9/2022,17/12/2022,80,2,2,0,0
+CMSE ,SP ,São Paulo ,3º CTA ,Assistente Financeiro ,SENAI ,Entidade Parceira,1/9/2022,9/12/2022,160,1,1,0,0
+CMSE ,SP ,São Paulo ,3º CTA ,Pintor Imobiliário ,SENAI ,Entidade Parceira,1/10/2022,25/2/2023,160,1,1,0,0
+CMSE ,SP ,São Paulo ,3º CTA ,Comandos Elétricos ,SENAI ,Entidade Parceira,16/7/2022,17/12/2022,120,1,1,0,0
+CMSE ,SP ,São Paulo ,3º CTA ,Autocad 2D e 3D  Documentação e Projeto ,SENAI ,Entidade Parceira,25/4/2022,12/5/2022,48,1,1,0,0
+CMSE ,SP ,São Paulo ,3º CTA ,Microsoft AI900 ,SENAI ,Entidade Parceira,16/8/2022,31/8/2022,40,1,1,0,0
+CMP ,TO ,Palmas ,22º BI ,Processos Básicos de Manutenção Automotiva ,SENAI ,Entidade Parceira,4/4/2022,4/5/2022,120,20,20,0,0
+CMP ,TO ,Palmas ,22º BI ,"Mnt de Sistemas de Freios, Susp e Dir Veiculo ",SENAI ,Entidade Parceira,16/5/2022,6/6/2022,90,20,20,0,0
+CMP ,TO ,Palmas ,22º BI ,Fundamentos da Tecnologia Automotiva ,SENAI ,Entidade Parceira,20/6/2022,7/7/2022,80,20,20,0,0
+CMP ,TO ,Palmas ,22º BI ,Comunicação e Informática Aplicada ,SENAI ,Entidade Parceira,18/7/2022,1/8/2022,62,20,20,0,0
+CMP ,TO ,Palmas ,22º BI ,Tapeçaria e Vidraçaria Automotiva ,SENAI ,Entidade Parceira,15/8/2022,24/8/2022,40,20,20,0,0
+CMP ,TO ,Palmas ,22º BI ,Mnt de Sistemas Eletroeletrônicos veiculares ,SENAI ,Entidade Parceira,5/9/2022,29/9/2022,100,20,20,0,0
+CMP ,TO ,Palmas ,22º BI ,Manutenção de Motores de Veículos ,SENAI ,Entidade Parceira,10/10/2022,21/11/2022,160,20,20,0,0
+CMP ,TO ,Palmas ,22º BI ,Introdução ao Desenvolvimento de projetos ,SENAI ,Entidade Parceira,23/1/2023,3/2/2023,52,20,20,0,0
+CMP ,TO ,Palmas ,22º BI ,Mnt de Sistemas de Transmissão de Veiculos ,SENAI ,Entidade Parceira,13/2/2023,6/3/2023,80,20,20,0,0
+CMP ,TO ,Palmas ,22º BI ,Gestão de Serviços de Manutenção Veicular ,SENAI ,Entidade Parceira,20/3/2023,18/4/2023,120,20,20,0,0
+CMP ,TO ,Palmas ,22º BI ,Diagnósticos Avançados em Sistemas Automotivo ,SENAI ,Entidade Parceira,2/5/2023,30/5/2023,120,20,20,0,0
+CMP ,TO ,Palmas ,22º BI ,Introdução a Qualidade e produtividade ,SENAI ,Entidade Parceira,12/6/2023,26/6/2023,58,20,20,0,0
+CMP ,TO ,Palmas ,22º BI ,Projeto de Inovação em Manutenção Automotiva ,SENAI ,Entidade Parceira,22/8/2023,13/9/2023,90,20,20,0,0
+CMP ,TO ,Palmas ,22º BI ,Metodologia de Projetos ,SENAI ,Entidade Parceira,26/9/2023,6/10/2023,50,20,20,0,0
+CMP ,TO ,Palmas ,22º BI ,Inspeção Veicular ,SENAI ,Entidade Parceira,17/10/2023,26/10/2023,40,20,20,0,0
+CMP ,TO ,Palmas ,22º BI ,Fundamentos de Funilaria e Pintura Automotiva ,SENAI ,Entidade Parceira,7/11/2023,4/12/2023,110,20,20,0,0
+CMP ,TO ,Palmas ,22º BI ,Garçom ,SENAC ,Entidade Parceira,2/5/2022,13/5/2022,40,20,20,0,0
+CMP ,TO ,Palmas ,22º BI ,Corel Draw ,SENAI ,Entidade Parceira,12/9/2022,27/9/2022,48,3,3,5,720
+CMP ,TO ,Palmas ,22º BI ,Eletricista Instalador Residencial ,SENAI ,Própria OM,20/6/2022,18/7/2022,160,20,20,0,0
+CMP ,TO ,Palmas ,22º BI ,Eletrônica Básica ,SENAI ,Entidade Parceira,26/9/2022,28/10/2022,160,4,4,"4,88","3123,2"
+CMP ,TO ,Palmas ,22º BI ,Mêcanico de Motor a Diesel ,SENAI ,Entidade Parceira,15/8/2022,7/10/2022,160,2,2,"5,13","1641,6"
+CMP ,TO ,Palmas ,22º BI ,Manutenção Predial ,SENAI ,Entidade Parceira,20/6/2022,24/6/2022,40,9,9,0,0
+CMP ,TO ,Palmas ,22º BI ,NR para Serviços em Altura NR 35 ,SENAI ,Entidade Parceira,18/7/2022,18/7/2022,8,10,10,"16,88","1350,4"
+CMP ,TO ,Palmas ,22º BI ,Cozinha para Eventos ,SENAC ,Entidade Parceira,13/7/2022,22/7/2022,36,6,6,0,0
+CMP ,TO ,Palmas ,22º BI ,Técnicas em Serviços de Restaurantes e Bares ,SENAC ,Própria OM,27/6/2022,1/7/2022,20,17,17,0,0
